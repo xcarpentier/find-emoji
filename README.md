@@ -1,6 +1,8 @@
 # Find emoji mobile app
 A simple mobile app to find the appropriate emoji!
 
+https://exp.host/@xcarpentier/find-emoji
+
 ## Data
 ```
 [
