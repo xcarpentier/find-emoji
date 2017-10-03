@@ -1,4 +1,6 @@
 # Find emoji mobile app
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcarpentier/find-emoji.svg)](https://greenkeeper.io/)
 A simple mobile app to find the appropriate emoji!
 
 ## Data
