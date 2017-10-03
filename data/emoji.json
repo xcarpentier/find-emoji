@@ -1,0 +1,6158 @@
+[
+  {
+    "name": "bowtie",
+    "alt": "classy, bow, face, formal, fashion, suit, magic, circus",
+    "code": ":bowtie:",
+    "categ": "people",
+    "rank": 0,
+    "ios": false
+  },
+  {
+    "name": "smile",
+    "alt": "happy, cheerful, face, joy, funny, haha, laugh, like",
+    "code": ":smile:",
+    "categ": "people",
+    "rank": 1
+  },
+  {
+    "name": "simple_smile",
+    "alt": "smile, guy, happy, cheerful, smiling",
+    "code": ":simple_smile:",
+    "categ": "people",
+    "rank": 2,
+    "ios": false
+  },
+  {
+    "name": "laughing",
+    "alt": "lol, funny, happy, joy, satisfied, haha, face, glad",
+    "code": ":laughing:",
+    "categ": "people",
+    "rank": 3
+  },
+  {
+    "name": "blush",
+    "alt": "face, smile, happy, flushed, crush, embarrassed, shy, joy",
+    "code": ":blush:",
+    "categ": "people",
+    "rank": 4
+  },
+  {
+    "name": "smiley",
+    "alt": "funny, face, happy, joy, haha",
+    "code": ":smiley:",
+    "categ": "people",
+    "rank": 5
+  },
+  {
+    "name": "relaxed",
+    "alt": "face, blush, massage, happiness",
+    "code": ":relaxed:",
+    "categ": "people",
+    "rank": 6
+  },
+  {
+    "name": "smirk",
+    "alt": "face, smile, mean, prank, smug, sarcasm",
+    "code": ":smirk:",
+    "categ": "people",
+    "rank": 7
+  },
+  {
+    "name": "heart_eyes",
+    "alt": "heart, love, face, like, affection, valentines, infatuation, crush",
+    "code": ":heart_eyes:",
+    "categ": "people",
+    "rank": 8
+  },
+  {
+    "name": "kissing_heart",
+    "alt": "heart, kiss, face, love, like, affection, valentines, infatuation",
+    "code": ":kissing_heart:",
+    "categ": "people",
+    "rank": 9
+  },
+  {
+    "name": "kissing_closed_eyes",
+    "alt": "face, love, like, affection, valentines, infatuation",
+    "code": ":kissing_closed_eyes:",
+    "categ": "people",
+    "rank": 10
+  },
+  {
+    "name": "flushed",
+    "alt": "flustered, embarassed, face, blush, shy, flattered",
+    "code": ":flushed:",
+    "categ": "people",
+    "rank": 11
+  },
+  {
+    "name": "relieved",
+    "alt": "face, relaxed, phew, massage, happiness",
+    "code": ":relieved:",
+    "categ": "people",
+    "rank": 12
+  },
+  {
+    "name": "satisfied",
+    "alt": "contented",
+    "code": ":satisfied:",
+    "categ": "people",
+    "rank": 13
+  },
+  {
+    "name": "grin",
+    "alt": "happy, smile, face, joy",
+    "code": ":grin:",
+    "categ": "people",
+    "rank": 14
+  },
+  {
+    "name": "wink",
+    "alt": "flirt, face, happy, mischievous, secret",
+    "code": ":wink:",
+    "categ": "people",
+    "rank": 15
+  },
+  {
+    "name": "stuck_out_tongue_winking_eye",
+    "alt": "face, prank, childish, playful, mischievous, smile",
+    "code": ":stuck_out_tongue_winking_eye:",
+    "categ": "people",
+    "rank": 16
+  },
+  {
+    "name": "stuck_out_tongue_closed_eyes",
+    "alt": "face, prank, playful, mischievous, smile",
+    "code": ":stuck_out_tongue_closed_eyes:",
+    "categ": "people",
+    "rank": 17
+  },
+  {
+    "name": "grinning",
+    "alt": "smiling, face, smile, happy, joy",
+    "code": ":grinning:",
+    "categ": "people",
+    "rank": 18
+  },
+  {
+    "name": "kissing",
+    "alt": "love, like, face, 3, valentines, infatuation",
+    "code": ":kissing:",
+    "categ": "people",
+    "rank": 19
+  },
+  {
+    "name": "kissing_smiling_eyes",
+    "alt": "smooch, face, affection, valentines, infatuation",
+    "code": ":kissing_smiling_eyes:",
+    "categ": "people",
+    "rank": 20
+  },
+  {
+    "name": "stuck_out_tongue",
+    "alt": "face, prank, childish, playful, mischievous, smile",
+    "code": ":stuck_out_tongue:",
+    "categ": "people",
+    "rank": 21
+  },
+  {
+    "name": "sleeping",
+    "alt": "asleep, face, tired, sleepy, night, zzz",
+    "code": ":sleeping:",
+    "categ": "people",
+    "rank": 22
+  },
+  {
+    "name": "worried",
+    "alt": "frustrated, scared, face, concern, nervous",
+    "code": ":worried:",
+    "categ": "people",
+    "rank": 23
+  },
+  {
+    "name": "frowning",
+    "alt": "face, aw, what",
+    "code": ":frowning:",
+    "categ": "people",
+    "rank": 24
+  },
+  {
+    "name": "anguished",
+    "alt": "face, stunned, nervous",
+    "code": ":anguished:",
+    "categ": "people",
+    "rank": 25
+  },
+  {
+    "name": "open_mouth",
+    "alt": "face, surprise, impressed, wow",
+    "code": ":open_mouth:",
+    "categ": "people",
+    "rank": 26
+  },
+  {
+    "name": "grimacing",
+    "alt": "face, grimace, teeth",
+    "code": ":grimacing:",
+    "categ": "people",
+    "rank": 27
+  },
+  {
+    "name": "confused",
+    "alt": "baffled, puzzled, face, indifference, huh, weird, hmmm",
+    "code": ":confused:",
+    "categ": "people",
+    "rank": 28
+  },
+  {
+    "name": "hushed",
+    "alt": "face, woo, shh,conceal,hide",
+    "code": ":hushed:",
+    "categ": "people",
+    "rank": 29
+  },
+  {
+    "name": "expressionless",
+    "alt": "deadpan, face, indifferent, -_-, meh",
+    "code": ":expressionless:",
+    "categ": "people",
+    "rank": 30
+  },
+  {
+    "name": "unamused",
+    "alt": "sarcasm, indifference, bored, straight face, serious",
+    "code": ":unamused:",
+    "categ": "people",
+    "rank": 31
+  },
+  {
+    "name": "sweat_smile",
+    "alt": "happy, relief, face, hot, laugh",
+    "code": ":sweat_smile:",
+    "categ": "people",
+    "rank": 32
+  },
+  {
+    "name": "sweat",
+    "alt": "worried, stressed, face, hot, sad, tired, exercise",
+    "code": ":sweat:",
+    "categ": "people",
+    "rank": 33
+  },
+  {
+    "name": "disappointed_relieved",
+    "alt": "face, phew, sweat, nervous",
+    "code": ":disappointed_relieved:",
+    "categ": "people",
+    "rank": 34
+  },
+  {
+    "name": "weary",
+    "alt": "tired, face, sleepy, sad, frustrated, upset",
+    "code": ":weary:",
+    "categ": "people",
+    "rank": 35
+  },
+  {
+    "name": "pensive",
+    "alt": "face, sad, depressed, okay, upset",
+    "code": ":pensive:",
+    "categ": "people",
+    "rank": 36
+  },
+  {
+    "name": "disappointed",
+    "alt": "sad, lonely, face, upset, depressed",
+    "code": ":disappointed:",
+    "categ": "people",
+    "rank": 37
+  },
+  {
+    "name": "confounded",
+    "alt": "face, confused, sick, unwell, oops",
+    "code": ":confounded:",
+    "categ": "people",
+    "rank": 38
+  },
+  {
+    "name": "fearful",
+    "alt": "scared, afraid, nervous, scared, face, terrified, oops, huh",
+    "code": ":fearful:",
+    "categ": "people",
+    "rank": 39
+  },
+  {
+    "name": "cold_sweat",
+    "alt": "scared, frightened, nervous, scared, face",
+    "code": ":cold_sweat:",
+    "categ": "people",
+    "rank": 40
+  },
+  {
+    "name": "persevere",
+    "alt": "face, sick, no, upset, oops",
+    "code": ":persevere:",
+    "categ": "people",
+    "rank": 41
+  },
+  {
+    "name": "cry",
+    "alt": "sad, unhappy, tear, face, tears, depressed, upset",
+    "code": ":cry:",
+    "categ": "people",
+    "rank": 42
+  },
+  {
+    "name": "sob",
+    "alt": "sad, unhappy, face, cry, tears, upset, depressed",
+    "code": ":sob:",
+    "categ": "people",
+    "rank": 43
+  },
+  {
+    "name": "joy",
+    "alt": "happy, happytears, face, cry, tears, weep, haha",
+    "code": ":joy:",
+    "categ": "people",
+    "rank": 44
+  },
+  {
+    "name": "astonished",
+    "alt": "face, xox, surprised, poisoned",
+    "code": ":astonished:",
+    "categ": "people",
+    "rank": 45
+  },
+  {
+    "name": "scream",
+    "alt": "halloween, scary, scared, terrified, face, munch, omg",
+    "code": ":scream:",
+    "categ": "people",
+    "rank": 46
+  },
+  {
+    "name": "neckbeard",
+    "alt": "nerd, geek, nerdy, face, custom_",
+    "code": ":neckbeard:",
+    "categ": "people",
+    "rank": 47,
+    "ios": false
+  },
+  {
+    "name": "tired_face",
+    "alt": "sick, whine, upset, frustrated",
+    "code": ":tired_face:",
+    "categ": "people",
+    "rank": 48
+  },
+  {
+    "name": "angry",
+    "alt": "mad, face, annoyed, frustrated",
+    "code": ":angry:",
+    "categ": "people",
+    "rank": 49
+  },
+  {
+    "name": "rage",
+    "alt": "furious, angry, mad, hate, despise",
+    "code": ":rage:",
+    "categ": "people",
+    "rank": 50
+  },
+  {
+    "name": "triumph",
+    "alt": "face, gas, phew, proud, pride",
+    "code": ":triumph:",
+    "categ": "people",
+    "rank": 51
+  },
+  {
+    "name": "sleepy",
+    "alt": "tired, zzz, face, rest, nap",
+    "code": ":sleepy:",
+    "categ": "people",
+    "rank": 52
+  },
+  {
+    "name": "yum",
+    "alt": "delicious, happy, joy, tongue, smile, face, silly, yummy",
+    "code": ":yum:",
+    "categ": "people",
+    "rank": 53
+  },
+  {
+    "name": "mask",
+    "alt": "face, sick, ill, disease",
+    "code": ":mask:",
+    "categ": "people",
+    "rank": 54
+  },
+  {
+    "name": "sunglasses",
+    "alt": "shades, face, cool, smile, summer, beach",
+    "code": ":sunglasses:",
+    "categ": "people",
+    "rank": 55
+  },
+  {
+    "name": "dizzy_face",
+    "alt": "ko, spent, unconscious, xox",
+    "code": ":dizzy_face:",
+    "categ": "people",
+    "rank": 56
+  },
+  {
+    "name": "imp",
+    "alt": "devil, angry, horns",
+    "code": ":imp:",
+    "categ": "people",
+    "rank": 57
+  },
+  {
+    "name": "smiling_imp",
+    "alt": "devil, horns",
+    "code": ":smiling_imp:",
+    "categ": "people",
+    "rank": 58
+  },
+  {
+    "name": "neutral_face",
+    "alt": "indifference, meh",
+    "code": ":neutral_face:",
+    "categ": "people",
+    "rank": 59
+  },
+  {
+    "name": "no_mouth",
+    "alt": "face, hellokitty,silent",
+    "code": ":no_mouth:",
+    "categ": "people",
+    "rank": 60
+  },
+  {
+    "name": "innocent",
+    "alt": "angel, face, heaven, halo",
+    "code": ":innocent:",
+    "categ": "people",
+    "rank": 61
+  },
+  {
+    "name": "alien",
+    "alt": "extraterrestrial, UFO, paul, weird, outer_space",
+    "code": ":alien:",
+    "categ": "people",
+    "rank": 62
+  },
+  {
+    "name": "yellow_heart",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":yellow_heart:",
+    "categ": "people",
+    "rank": 63
+  },
+  {
+    "name": "blue_heart",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":blue_heart:",
+    "categ": "people",
+    "rank": 64
+  },
+  {
+    "name": "purple_heart",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":purple_heart:",
+    "categ": "people",
+    "rank": 65
+  },
+  {
+    "name": "heart",
+    "alt": "heart, love, like, valentines",
+    "code": ":heart:",
+    "categ": "people",
+    "rank": 66
+  },
+  {
+    "name": "green_heart",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":green_heart:",
+    "categ": "people",
+    "rank": 67
+  },
+  {
+    "name": "broken_heart",
+    "alt": "heart, heartbreak, sad, sorry, break",
+    "code": ":broken_heart:",
+    "categ": "people",
+    "rank": 68
+  },
+  {
+    "name": "heartbeat",
+    "alt": "heart, love, like, affection, valentines, pink",
+    "code": ":heartbeat:",
+    "categ": "people",
+    "rank": 69
+  },
+  {
+    "name": "heartpulse",
+    "alt": "heart, like, love, affection, valentines, pink",
+    "code": ":heartpulse:",
+    "categ": "people",
+    "rank": 70
+  },
+  {
+    "name": "two_hearts",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":two_hearts:",
+    "categ": "people",
+    "rank": 71
+  },
+  {
+    "name": "revolving_hearts",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":revolving_hearts:",
+    "categ": "people",
+    "rank": 72
+  },
+  {
+    "name": "cupid",
+    "alt": "love, like, heart, affection, valentines",
+    "code": ":cupid:",
+    "categ": "people",
+    "rank": 73
+  },
+  {
+    "name": "sparkling_heart",
+    "alt": "heart, love, like, affection, valentines",
+    "code": ":sparkling_heart:",
+    "categ": "people",
+    "rank": 74
+  },
+  {
+    "name": "sparkles",
+    "alt": "stars, shine, shiny, cool, awesome, good, magic",
+    "code": ":sparkles:",
+    "categ": "people",
+    "rank": 75
+  },
+  {
+    "name": "star",
+    "alt": "night, yellow",
+    "code": ":star:",
+    "categ": "people",
+    "rank": 76
+  },
+  {
+    "name": "star2",
+    "alt": "night, sparkle, awesome, good, magic",
+    "code": ":star2:",
+    "categ": "people",
+    "rank": 77
+  },
+  {
+    "name": "dizzy",
+    "alt": "star, sparkle, shoot, magic",
+    "code": ":dizzy:",
+    "categ": "people",
+    "rank": 78
+  },
+  {
+    "name": "boom",
+    "alt": "explosion, bomb, explode, collision, blown",
+    "code": ":boom:",
+    "categ": "people",
+    "rank": 79
+  },
+  {
+    "name": "collision",
+    "alt": "accident,fight,boom",
+    "code": ":collision:",
+    "categ": "people",
+    "rank": 80
+  },
+  {
+    "name": "anger",
+    "alt": "angry, mad",
+    "code": ":anger:",
+    "categ": "people",
+    "rank": 81
+  },
+  {
+    "name": "exclamation",
+    "alt": "heavy_exclamation_mark, danger, surprise, punctuation, wow, warning",
+    "code": ":exclamation:",
+    "categ": "people",
+    "rank": 82
+  },
+  {
+    "name": "question",
+    "alt": "doubt, confused",
+    "code": ":question:",
+    "categ": "people",
+    "rank": 83
+  },
+  {
+    "name": "grey_exclamation",
+    "alt": "surprise, punctuation, gray, wow, warning",
+    "code": ":grey_exclamation:",
+    "categ": "people",
+    "rank": 84
+  },
+  {
+    "name": "grey_question",
+    "alt": "doubts, gray, huh",
+    "code": ":grey_question:",
+    "categ": "people",
+    "rank": 85
+  },
+  {
+    "name": "zzz",
+    "alt": "sleep, bored, sleepy, tired",
+    "code": ":zzz:",
+    "categ": "people",
+    "rank": 86
+  },
+  {
+    "name": "dash",
+    "alt": "wind, air, fast, shoo, fart, smoke, puff",
+    "code": ":dash:",
+    "categ": "people",
+    "rank": 87
+  },
+  {
+    "name": "sweat_drops",
+    "alt": "water, drip, oops",
+    "code": ":sweat_drops:",
+    "categ": "people",
+    "rank": 88
+  },
+  {
+    "name": "notes",
+    "alt": "music, score",
+    "code": ":notes:",
+    "categ": "people",
+    "rank": 89
+  },
+  {
+    "name": "musical_note",
+    "alt": "music, score, tone, sound",
+    "code": ":musical_note:",
+    "categ": "people",
+    "rank": 90
+  },
+  {
+    "name": "fire",
+    "alt": "hot, cook, flame",
+    "code": ":fire:",
+    "categ": "people",
+    "rank": 91
+  },
+  {
+    "name": "hankey",
+    "alt": "poop, shitface, fail, turd",
+    "code": ":hankey:",
+    "categ": "people",
+    "rank": 92
+  },
+  {
+    "name": "poop",
+    "alt": "shit, turd",
+    "code": ":poop:",
+    "categ": "people",
+    "rank": 93
+  },
+  {
+    "name": "shit",
+    "alt": "poop",
+    "code": ":shit:",
+    "categ": "people",
+    "rank": 94
+  },
+  {
+    "name": "+1",
+    "alt": "thumbsup, yes, awesome, good, agree, accept, cool, hand, like",
+    "code": ":+1:",
+    "categ": "people",
+    "rank": 95
+  },
+  {
+    "name": "thumbsup",
+    "alt": "like",
+    "code": ":thumbsup:",
+    "categ": "people",
+    "rank": 96
+  },
+  {
+    "name": "-1",
+    "alt": "thumbsdown, no, dislike, hand",
+    "code": ":-1:",
+    "categ": "people",
+    "rank": 97
+  },
+  {
+    "name": "thumbsdown",
+    "alt": "dislike",
+    "code": ":thumbsdown:",
+    "categ": "people",
+    "rank": 98
+  },
+  {
+    "name": "ok_hand",
+    "alt": "fingers, limbs, perfect",
+    "code": ":ok_hand:",
+    "categ": "people",
+    "rank": 99
+  },
+  {
+    "name": "punch",
+    "alt": "pound",
+    "code": ":punch:",
+    "categ": "people",
+    "rank": 100
+  },
+  {
+    "name": "facepunch",
+    "alt": "angry, violence, fist, hit, attack, hand",
+    "code": ":facepunch:",
+    "categ": "people",
+    "rank": 101
+  },
+  {
+    "name": "fist",
+    "alt": "fingers, hand, grasp",
+    "code": ":fist:",
+    "categ": "people",
+    "rank": 102
+  },
+  {
+    "name": "v",
+    "alt": "peace, deuces, fingers, ohyeah, hand, victory, two",
+    "code": ":v:",
+    "categ": "people",
+    "rank": 103
+  },
+  {
+    "name": "wave",
+    "alt": "hi, hello, bye, hands, gesture, goodbye, solong, farewell, palm",
+    "code": ":wave:",
+    "categ": "people",
+    "rank": 104
+  },
+  {
+    "name": "hand",
+    "alt": "stop, fingers, highfive, palm, ban, raised_hand",
+    "code": ":hand:",
+    "categ": "people",
+    "rank": 105
+  },
+  {
+    "name": "raised_hand",
+    "alt": "stop",
+    "code": ":raised_hand:",
+    "categ": "people",
+    "rank": 106
+  },
+  {
+    "name": "open_hands",
+    "alt": "fingers, butterfly",
+    "code": ":open_hands:",
+    "categ": "people",
+    "rank": 107
+  },
+  {
+    "name": "point_up",
+    "alt": "hand, fingers, direction",
+    "code": ":point_up:",
+    "categ": "people",
+    "rank": 108
+  },
+  {
+    "name": "point_down",
+    "alt": "fingers, hand, direction",
+    "code": ":point_down:",
+    "categ": "people",
+    "rank": 109
+  },
+  {
+    "name": "point_left",
+    "alt": "direction, fingers, hand",
+    "code": ":point_left:",
+    "categ": "people",
+    "rank": 110
+  },
+  {
+    "name": "point_right",
+    "alt": "fingers, hand, direction",
+    "code": ":point_right:",
+    "categ": "people",
+    "rank": 111
+  },
+  {
+    "name": "raised_hands",
+    "alt": "gesture, hooray, yea, celebration",
+    "code": ":raised_hands:",
+    "categ": "people",
+    "rank": 112
+  },
+  {
+    "name": "pray",
+    "alt": "please, hope, wish, namaste, highfive",
+    "code": ":pray:",
+    "categ": "people",
+    "rank": 113
+  },
+  {
+    "name": "point_up_2",
+    "alt": "fingers, hand, direction",
+    "code": ":point_up_2:",
+    "categ": "people",
+    "rank": 114
+  },
+  {
+    "name": "clap",
+    "alt": "hands, praise, applause, congrats, yay",
+    "code": ":clap:",
+    "categ": "people",
+    "rank": 115
+  },
+  {
+    "name": "muscle",
+    "alt": "arm, flex, hand, summer, strong",
+    "code": ":muscle:",
+    "categ": "people",
+    "rank": 116
+  },
+  {
+    "name": "metal",
+    "alt": "fingers, rocknroll, concert, band, custom_",
+    "code": ":metal:",
+    "categ": "people",
+    "rank": 117,
+    "ios": false
+  },
+  {
+    "name": "fu",
+    "alt": "fuck, finger, dislike, thumbsdown, disapprove, no, custom_",
+    "code": ":fu:",
+    "categ": "people",
+    "rank": 118,
+    "ios": false
+  },
+  {
+    "name": "runner",
+    "alt": "sport, man, walking, exercise, race, running",
+    "code": ":runner:",
+    "categ": "people",
+    "rank": 119
+  },
+  {
+    "name": "running",
+    "alt": "sport",
+    "code": ":running:",
+    "categ": "people",
+    "rank": 120
+  },
+  {
+    "name": "couple",
+    "alt": "pair, people, human, love, date, dating, like, affection, valentines, marriage",
+    "code": ":couple:",
+    "categ": "people",
+    "rank": 121
+  },
+  {
+    "name": "family",
+    "alt": "home, parents, child, mom, dad, father, mother, people, human",
+    "code": ":family:",
+    "categ": "people",
+    "rank": 122
+  },
+  {
+    "name": "two_men_holding_hands",
+    "alt": "gay, pair, couple, love, like, bromance, friendship, people, human",
+    "code": ":two_men_holding_hands:",
+    "categ": "people",
+    "rank": 123
+  },
+  {
+    "name": "two_women_holding_hands",
+    "alt": "gay, pair, friendship, couple, love, like, female, people, human, lesbian",
+    "code": ":two_women_holding_hands:",
+    "categ": "people",
+    "rank": 124
+  },
+  {
+    "name": "dancer",
+    "alt": "party, female, girl, woman, fun",
+    "code": ":dancer:",
+    "categ": "people",
+    "rank": 125
+  },
+  {
+    "name": "dancers",
+    "alt": "party, female, bunny, women, girls",
+    "code": ":dancers:",
+    "categ": "people",
+    "rank": 126
+  },
+  {
+    "name": "ok_woman",
+    "alt": "women, girl, female, pink, human",
+    "code": ":ok_woman:",
+    "categ": "people",
+    "rank": 127
+  },
+  {
+    "name": "no_good",
+    "alt": "female, girl, woman, nope",
+    "code": ":no_good:",
+    "categ": "people",
+    "rank": 128
+  },
+  {
+    "name": "information_desk_person",
+    "alt": "female, girl, woman, human",
+    "code": ":information_desk_person:",
+    "categ": "people",
+    "rank": 129
+  },
+  {
+    "name": "raising_hand",
+    "alt": "female, girl, woman",
+    "code": ":raising_hand:",
+    "categ": "people",
+    "rank": 130
+  },
+  {
+    "name": "bride_with_veil",
+    "alt": "couple, marriage, wedding",
+    "code": ":bride_with_veil:",
+    "categ": "people",
+    "rank": 131
+  },
+  {
+    "name": "person_with_pouting_face",
+    "alt": "female, girl, woman",
+    "code": ":person_with_pouting_face:",
+    "categ": "people",
+    "rank": 132
+  },
+  {
+    "name": "person_frowning",
+    "alt": "female, girl, woman, sad, depressed, discouraged, unhappy",
+    "code": ":person_frowning:",
+    "categ": "people",
+    "rank": 133
+  },
+  {
+    "name": "bow",
+    "alt": "man, male, boy",
+    "code": ":bow:",
+    "categ": "people",
+    "rank": 134
+  },
+  {
+    "name": "couplekiss",
+    "alt": "pair, valentines, love, like, dating, marriage",
+    "code": ":couplekiss:",
+    "categ": "people",
+    "rank": 135
+  },
+  {
+    "name": "couple_with_heart",
+    "alt": "heart, pair, love, like, affection, human, dating, valentines, marriage",
+    "code": ":couple_with_heart:",
+    "categ": "people",
+    "rank": 136
+  },
+  {
+    "name": "massage",
+    "alt": "female, girl, woman, head",
+    "code": ":massage:",
+    "categ": "people",
+    "rank": 137
+  },
+  {
+    "name": "haircut",
+    "alt": "female, girl, woman",
+    "code": ":haircut:",
+    "categ": "people",
+    "rank": 138
+  },
+  {
+    "name": "nail_care",
+    "alt": "manicure, beauty, finger, fashion",
+    "code": ":nail_care:",
+    "categ": "people",
+    "rank": 139
+  },
+  {
+    "name": "boy",
+    "alt": "man, male, guy, teenager",
+    "code": ":boy:",
+    "categ": "people",
+    "rank": 140
+  },
+  {
+    "name": "girl",
+    "alt": "female, woman, teenager",
+    "code": ":girl:",
+    "categ": "people",
+    "rank": 141
+  },
+  {
+    "name": "woman",
+    "alt": "female, girls, lady",
+    "code": ":woman:",
+    "categ": "people",
+    "rank": 142
+  },
+  {
+    "name": "man",
+    "alt": "guy, mustache, father, dad, classy, sir, moustache",
+    "code": ":man:",
+    "categ": "people",
+    "rank": 143
+  },
+  {
+    "name": "baby",
+    "alt": "infant, child, boy, girl, toddler",
+    "code": ":baby:",
+    "categ": "people",
+    "rank": 144
+  },
+  {
+    "name": "older_woman",
+    "alt": "grandma, granny, female, women, girl, lady",
+    "code": ":older_woman:",
+    "categ": "people",
+    "rank": 145
+  },
+  {
+    "name": "older_man",
+    "alt": "grandpa, grandad, human, male, men",
+    "code": ":older_man:",
+    "categ": "people",
+    "rank": 146
+  },
+  {
+    "name": "person_with_blond_hair",
+    "alt": "man, male, boy, blonde, guy",
+    "code": ":person_with_blond_hair:",
+    "categ": "people",
+    "rank": 147
+  },
+  {
+    "name": "man_with_gua_pi_mao",
+    "alt": "male, boy",
+    "code": ":man_with_gua_pi_mao:",
+    "categ": "people",
+    "rank": 148
+  },
+  {
+    "name": "man_with_turban",
+    "alt": "male, indian, hinduism, arabs",
+    "code": ":man_with_turban:",
+    "categ": "people",
+    "rank": 149
+  },
+  {
+    "name": "construction_worker",
+    "alt": "male, human, wip, guy, build",
+    "code": ":construction_worker:",
+    "categ": "people",
+    "rank": 150
+  },
+  {
+    "name": "cop",
+    "alt": "police, policeman, man, law, legal, enforcement, arrest, 911",
+    "code": ":cop:",
+    "categ": "people",
+    "rank": 151
+  },
+  {
+    "name": "angel",
+    "alt": "heaven, wings, halo",
+    "code": ":angel:",
+    "categ": "people",
+    "rank": 152
+  },
+  {
+    "name": "princess",
+    "alt": "girl, woman, female, blond, crown, royal, queen",
+    "code": ":princess:",
+    "categ": "people",
+    "rank": 153
+  },
+  {
+    "name": "smiley_cat",
+    "alt": "animal, happy, cats",
+    "code": ":smiley_cat:",
+    "categ": "people",
+    "rank": 154
+  },
+  {
+    "name": "smile_cat",
+    "alt": "animal, happy, cats",
+    "code": ":smile_cat:",
+    "categ": "people",
+    "rank": 155
+  },
+  {
+    "name": "heart_eyes_cat",
+    "alt": "heart, animal, love, like, affection, cats, valentines",
+    "code": ":heart_eyes_cat:",
+    "categ": "people",
+    "rank": 156
+  },
+  {
+    "name": "kissing_cat",
+    "alt": "animal, love, cats",
+    "code": ":kissing_cat:",
+    "categ": "people",
+    "rank": 157
+  },
+  {
+    "name": "smirk_cat",
+    "alt": "animal, cats",
+    "code": ":smirk_cat:",
+    "categ": "people",
+    "rank": 158
+  },
+  {
+    "name": "scream_cat",
+    "alt": "animal, cats, munch, scared",
+    "code": ":scream_cat:",
+    "categ": "people",
+    "rank": 159
+  },
+  {
+    "name": "crying_cat_face",
+    "alt": "animal, sad, tears, weep, cats, upset",
+    "code": ":crying_cat_face:",
+    "categ": "people",
+    "rank": 160
+  },
+  {
+    "name": "joy_cat",
+    "alt": "animal, happy, cats, haha, tears",
+    "code": ":joy_cat:",
+    "categ": "people",
+    "rank": 161
+  },
+  {
+    "name": "pouting_cat",
+    "alt": "animal, sad, unhappy, angry, cats",
+    "code": ":pouting_cat:",
+    "categ": "people",
+    "rank": 162
+  },
+  {
+    "name": "japanese_ogre",
+    "alt": "namahage, monster, red, mask, halloween, scary, creepy, devil, demon",
+    "code": ":japanese_ogre:",
+    "categ": "people",
+    "rank": 163
+  },
+  {
+    "name": "japanese_goblin",
+    "alt": "tengu, red, evil, mask, monster, scary, creepy",
+    "code": ":japanese_goblin:",
+    "categ": "people",
+    "rank": 164
+  },
+  {
+    "name": "see_no_evil",
+    "alt": "monkey, animal, nature, haha",
+    "code": ":see_no_evil:",
+    "categ": "people",
+    "rank": 165
+  },
+  {
+    "name": "hear_no_evil",
+    "alt": "animal, monkey, nature",
+    "code": ":hear_no_evil:",
+    "categ": "people",
+    "rank": 166
+  },
+  {
+    "name": "speak_no_evil",
+    "alt": "monkey, animal, nature, omg",
+    "code": ":speak_no_evil:",
+    "categ": "people",
+    "rank": 167
+  },
+  {
+    "name": "guardsman",
+    "alt": "uk, gb, british, male, guy, royal",
+    "code": ":guardsman:",
+    "categ": "people",
+    "rank": 168
+  },
+  {
+    "name": "skull",
+    "alt": "scary, halloween, dead, skeleton, creepy",
+    "code": ":skull:",
+    "categ": "people",
+    "rank": 169
+  },
+  {
+    "name": "feet",
+    "alt": "animal, tracking, footprints, dog, cat, pet, paw_prints",
+    "code": ":feet:",
+    "categ": "people",
+    "rank": 170
+  },
+  {
+    "name": "lips",
+    "alt": "mouth, kiss",
+    "code": ":lips:",
+    "categ": "people",
+    "rank": 171
+  },
+  {
+    "name": "kiss",
+    "alt": "face, lips, love, like, affection, valentines",
+    "code": ":kiss:",
+    "categ": "people",
+    "rank": 172
+  },
+  {
+    "name": "droplet",
+    "alt": "water, drip, faucet, spring",
+    "code": ":droplet:",
+    "categ": "people",
+    "rank": 173
+  },
+  {
+    "name": "ear",
+    "alt": "face, hear, sound, listen",
+    "code": ":ear:",
+    "categ": "people",
+    "rank": 174
+  },
+  {
+    "name": "eyes",
+    "alt": "eye-rolling, look, watch, stalk, peek, see",
+    "code": ":eyes:",
+    "categ": "people",
+    "rank": 175
+  },
+  {
+    "name": "nose",
+    "alt": "smell, sniff",
+    "code": ":nose:",
+    "categ": "people",
+    "rank": 176
+  },
+  {
+    "name": "tongue",
+    "alt": "mouth, playful",
+    "code": ":tongue:",
+    "categ": "people",
+    "rank": 177
+  },
+  {
+    "name": "love_letter",
+    "alt": "email, like, affection, envelope, valentines",
+    "code": ":love_letter:",
+    "categ": "people",
+    "rank": 178
+  },
+  {
+    "name": "bust_in_silhouette",
+    "alt": "user, person, human",
+    "code": ":bust_in_silhouette:",
+    "categ": "people",
+    "rank": 179
+  },
+  {
+    "name": "busts_in_silhouette",
+    "alt": "user, person, human, group, team",
+    "code": ":busts_in_silhouette:",
+    "categ": "people",
+    "rank": 180
+  },
+  {
+    "name": "speech_balloon",
+    "alt": "bubble, words, message, talk, chatting",
+    "code": ":speech_balloon:",
+    "categ": "people",
+    "rank": 181
+  },
+  {
+    "name": "thought_balloon",
+    "alt": "bubble, cloud, speech, thinking",
+    "code": ":thought_balloon:",
+    "categ": "people",
+    "rank": 182
+  },
+  {
+    "name": "feelsgood",
+    "alt": "doom, oldschool",
+    "code": ":feelsgood:",
+    "categ": "people",
+    "rank": 183,
+    "ios": false
+  },
+  {
+    "name": "finnadie",
+    "alt": "doom, oldschool",
+    "code": ":finnadie:",
+    "categ": "people",
+    "rank": 184,
+    "ios": false
+  },
+  {
+    "name": "goberserk",
+    "alt": "doom, rage, bloody, hurt",
+    "code": ":goberserk:",
+    "categ": "people",
+    "rank": 185,
+    "ios": false
+  },
+  {
+    "name": "godmode",
+    "alt": "doom, oldschool",
+    "code": ":godmode:",
+    "categ": "people",
+    "rank": 186,
+    "ios": false
+  },
+  {
+    "name": "hurtrealbad",
+    "alt": "mad, injured, doom, oldschool, custom_",
+    "code": ":hurtrealbad:",
+    "categ": "people",
+    "rank": 187,
+    "ios": false
+  },
+  {
+    "name": "rage1",
+    "alt": "angry, mad, hate, despise",
+    "code": ":rage1:",
+    "categ": "people",
+    "rank": 188,
+    "ios": false
+  },
+  {
+    "name": "rage2",
+    "alt": "angry, mad, hate, despise",
+    "code": ":rage2:",
+    "categ": "people",
+    "rank": 189,
+    "ios": false
+  },
+  {
+    "name": "rage3",
+    "alt": "angry, mad, hate, despise",
+    "code": ":rage3:",
+    "categ": "people",
+    "rank": 190,
+    "ios": false
+  },
+  {
+    "name": "rage4",
+    "alt": "angry, mad, hate, despise",
+    "code": ":rage4:",
+    "categ": "people",
+    "rank": 191,
+    "ios": false
+  },
+  {
+    "name": "suspect",
+    "alt": "mad, custom_",
+    "code": ":suspect:",
+    "categ": "people",
+    "rank": 192,
+    "ios": false
+  },
+  {
+    "name": "trollface",
+    "alt": "internet, meme, custom_",
+    "code": ":trollface:",
+    "categ": "people",
+    "rank": 193,
+    "ios": false
+  },
+  {
+    "name": "sunny",
+    "alt": "weather, sun, nature, brightness, summer, beach, spring",
+    "code": ":sunny:",
+    "categ": "nature",
+    "rank": 0
+  },
+  {
+    "name": "umbrella",
+    "alt": "water, rain, rainy, weather, spring",
+    "code": ":umbrella:",
+    "categ": "nature",
+    "rank": 1
+  },
+  {
+    "name": "cloud",
+    "alt": "weather, sky",
+    "code": ":cloud:",
+    "categ": "nature",
+    "rank": 2
+  },
+  {
+    "name": "snowflake",
+    "alt": "winter, season, cold, weather, christmas, xmas",
+    "code": ":snowflake:",
+    "categ": "nature",
+    "rank": 3
+  },
+  {
+    "name": "snowman",
+    "alt": "winter, season, cold, weather, christmas, xmas, frozen",
+    "code": ":snowman:",
+    "categ": "nature",
+    "rank": 4
+  },
+  {
+    "name": "zap",
+    "alt": "weather, lightning, thunder, lightning bolt, fast",
+    "code": ":zap:",
+    "categ": "nature",
+    "rank": 5
+  },
+  {
+    "name": "cyclone",
+    "alt": "weather, swirl, blue, cloud",
+    "code": ":cyclone:",
+    "categ": "nature",
+    "rank": 6
+  },
+  {
+    "name": "foggy",
+    "alt": "weather, fog, photo, mountain",
+    "code": ":foggy:",
+    "categ": "nature",
+    "rank": 7
+  },
+  {
+    "name": "ocean",
+    "alt": "waves, sea, water, wave, nature, tsunami, disaster",
+    "code": ":ocean:",
+    "categ": "nature",
+    "rank": 8
+  },
+  {
+    "name": "cat",
+    "alt": "animal, meow, nature, pet",
+    "code": ":cat:",
+    "categ": "nature",
+    "rank": 9
+  },
+  {
+    "name": "dog",
+    "alt": "animal, friend, nature, woof, puppy, pet, faithful",
+    "code": ":dog:",
+    "categ": "nature",
+    "rank": 10
+  },
+  {
+    "name": "mouse",
+    "alt": "animal, nature, cheese",
+    "code": ":mouse:",
+    "categ": "nature",
+    "rank": 11
+  },
+  {
+    "name": "hamster",
+    "alt": "animal, nature",
+    "code": ":hamster:",
+    "categ": "nature",
+    "rank": 12
+  },
+  {
+    "name": "rabbit",
+    "alt": "animal, nature, pet, spring, magic",
+    "code": ":rabbit:",
+    "categ": "nature",
+    "rank": 13
+  },
+  {
+    "name": "wolf",
+    "alt": "animal,dog, animal, nature, wild, audrey, lulu, audrey and lulu",
+    "code": ":wolf:",
+    "categ": "nature",
+    "rank": 14
+  },
+  {
+    "name": "frog",
+    "alt": "animal, nature, croak",
+    "code": ":frog:",
+    "categ": "nature",
+    "rank": 15
+  },
+  {
+    "name": "tiger",
+    "alt": "animal, cat, danger, wild, nature, roar",
+    "code": ":tiger:",
+    "categ": "nature",
+    "rank": 16
+  },
+  {
+    "name": "koala",
+    "alt": "animal, nature",
+    "code": ":koala:",
+    "categ": "nature",
+    "rank": 17
+  },
+  {
+    "name": "bear",
+    "alt": "animal, nature, wild",
+    "code": ":bear:",
+    "categ": "nature",
+    "rank": 18
+  },
+  {
+    "name": "pig",
+    "alt": "animal, oink, nature",
+    "code": ":pig:",
+    "categ": "nature",
+    "rank": 19
+  },
+  {
+    "name": "pig_nose",
+    "alt": "animal, oink",
+    "code": ":pig_nose:",
+    "categ": "nature",
+    "rank": 20
+  },
+  {
+    "name": "cow",
+    "alt": "animal, beef, ox, nature, moo, milk",
+    "code": ":cow:",
+    "categ": "nature",
+    "rank": 21
+  },
+  {
+    "name": "boar",
+    "alt": "animal, nature",
+    "code": ":boar:",
+    "categ": "nature",
+    "rank": 22
+  },
+  {
+    "name": "monkey_face",
+    "alt": "animal, nature, circus, ape",
+    "code": ":monkey_face:",
+    "categ": "nature",
+    "rank": 23
+  },
+  {
+    "name": "monkey",
+    "alt": "animal, nature, banana, circus, ape",
+    "code": ":monkey:",
+    "categ": "nature",
+    "rank": 24
+  },
+  {
+    "name": "horse",
+    "alt": "animal, brown, nature, unicorn",
+    "code": ":horse:",
+    "categ": "nature",
+    "rank": 25
+  },
+  {
+    "name": "racehorse",
+    "alt": "animal, gamble, luck",
+    "code": ":racehorse:",
+    "categ": "nature",
+    "rank": 26
+  },
+  {
+    "name": "camel",
+    "alt": "animal, nature, hot, desert, hump",
+    "code": ":camel:",
+    "categ": "nature",
+    "rank": 27
+  },
+  {
+    "name": "sheep",
+    "alt": "animal, nature, wool, shipit",
+    "code": ":sheep:",
+    "categ": "nature",
+    "rank": 28
+  },
+  {
+    "name": "elephant",
+    "alt": "animal, nature, nose, thailand, circus",
+    "code": ":elephant:",
+    "categ": "nature",
+    "rank": 29
+  },
+  {
+    "name": "panda_face",
+    "alt": "animal, nature",
+    "code": ":panda_face:",
+    "categ": "nature",
+    "rank": 30
+  },
+  {
+    "name": "snake",
+    "alt": "animal,serpent, animal, evil, nature, hiss",
+    "code": ":snake:",
+    "categ": "nature",
+    "rank": 31
+  },
+  {
+    "name": "bird",
+    "alt": "animal, nature, fly, tweet, spring",
+    "code": ":bird:",
+    "categ": "nature",
+    "rank": 32
+  },
+  {
+    "name": "baby_chick",
+    "alt": "animal, bird, chicken",
+    "code": ":baby_chick:",
+    "categ": "nature",
+    "rank": 33
+  },
+  {
+    "name": "hatched_chick",
+    "alt": "animal, bird, chicken, baby",
+    "code": ":hatched_chick:",
+    "categ": "nature",
+    "rank": 34
+  },
+  {
+    "name": "hatching_chick",
+    "alt": "animal, bird,egg, chicken, egg, born, baby, bird",
+    "code": ":hatching_chick:",
+    "categ": "nature",
+    "rank": 35
+  },
+  {
+    "name": "chicken",
+    "alt": "animal, bird, cluck, nature",
+    "code": ":chicken:",
+    "categ": "nature",
+    "rank": 36
+  },
+  {
+    "name": "penguin",
+    "alt": "animal, bird, nature",
+    "code": ":penguin:",
+    "categ": "nature",
+    "rank": 37
+  },
+  {
+    "name": "turtle",
+    "alt": "animal, tortoise, slow, nature",
+    "code": ":turtle:",
+    "categ": "nature",
+    "rank": 38
+  },
+  {
+    "name": "bug",
+    "alt": "animal, insect, nature, worm",
+    "code": ":bug:",
+    "categ": "nature",
+    "rank": 39
+  },
+  {
+    "name": "honeybee",
+    "alt": "animal",
+    "code": ":honeybee:",
+    "categ": "nature",
+    "rank": 40
+  },
+  {
+    "name": "ant",
+    "alt": "animal, insect, nature, bug",
+    "code": ":ant:",
+    "categ": "nature",
+    "rank": 41
+  },
+  {
+    "name": "beetle",
+    "alt": "animal, insect, nature, bug",
+    "code": ":beetle:",
+    "categ": "nature",
+    "rank": 42
+  },
+  {
+    "name": "snail",
+    "alt": "animal, slow, shell",
+    "code": ":snail:",
+    "categ": "nature",
+    "rank": 43
+  },
+  {
+    "name": "octopus",
+    "alt": "animal, creature, ocean, sea, nature, beach",
+    "code": ":octopus:",
+    "categ": "nature",
+    "rank": 44
+  },
+  {
+    "name": "tropical_fish",
+    "alt": "animal, swim, ocean, beach, nemo",
+    "code": ":tropical_fish:",
+    "categ": "nature",
+    "rank": 45
+  },
+  {
+    "name": "fish",
+    "alt": "animal, food, nature",
+    "code": ":fish:",
+    "categ": "nature",
+    "rank": 46
+  },
+  {
+    "name": "whale",
+    "alt": "animal, nature, sea, ocean",
+    "code": ":whale:",
+    "categ": "nature",
+    "rank": 47
+  },
+  {
+    "name": "whale2",
+    "alt": "animal, nature, sea, ocean",
+    "code": ":whale2:",
+    "categ": "nature",
+    "rank": 48
+  },
+  {
+    "name": "dolphin",
+    "alt": "animal, nature, fish, sea, ocean, flipper, fins, beach",
+    "code": ":dolphin:",
+    "categ": "nature",
+    "rank": 49
+  },
+  {
+    "name": "cow2",
+    "alt": "animal, beef, ox, nature, moo, milk",
+    "code": ":cow2:",
+    "categ": "nature",
+    "rank": 50
+  },
+  {
+    "name": "ram",
+    "alt": "animal, sheep, nature",
+    "code": ":ram:",
+    "categ": "nature",
+    "rank": 51
+  },
+  {
+    "name": "rat",
+    "alt": "animal, mouse, rodent",
+    "code": ":rat:",
+    "categ": "nature",
+    "rank": 52
+  },
+  {
+    "name": "water_buffalo",
+    "alt": "animal, nature, ox, cow",
+    "code": ":water_buffalo:",
+    "categ": "nature",
+    "rank": 53
+  },
+  {
+    "name": "tiger2",
+    "alt": "animal, nature, roar",
+    "code": ":tiger2:",
+    "categ": "nature",
+    "rank": 54
+  },
+  {
+    "name": "rabbit2",
+    "alt": "animal, bunny, nature, pet, magic, spring",
+    "code": ":rabbit2:",
+    "categ": "nature",
+    "rank": 55
+  },
+  {
+    "name": "dragon",
+    "alt": "animal, myth, nature, chinese, green",
+    "code": ":dragon:",
+    "categ": "nature",
+    "rank": 56
+  },
+  {
+    "name": "goat",
+    "alt": "animal, nature",
+    "code": ":goat:",
+    "categ": "nature",
+    "rank": 57
+  },
+  {
+    "name": "rooster",
+    "alt": "animal, chicken, nature",
+    "code": ":rooster:",
+    "categ": "nature",
+    "rank": 58
+  },
+  {
+    "name": "dog2",
+    "alt": "animal, nature, friend, doge, pet, faithful",
+    "code": ":dog2:",
+    "categ": "nature",
+    "rank": 59
+  },
+  {
+    "name": "pig2",
+    "alt": "animal, nature",
+    "code": ":pig2:",
+    "categ": "nature",
+    "rank": 60
+  },
+  {
+    "name": "mouse2",
+    "alt": "animal, nature, rodent",
+    "code": ":mouse2:",
+    "categ": "nature",
+    "rank": 61
+  },
+  {
+    "name": "ox",
+    "alt": "animal, cow, beef",
+    "code": ":ox:",
+    "categ": "nature",
+    "rank": 62
+  },
+  {
+    "name": "dragon_face",
+    "alt": "animal, myth, nature, chinese, green",
+    "code": ":dragon_face:",
+    "categ": "nature",
+    "rank": 63
+  },
+  {
+    "name": "blowfish",
+    "alt": "animal, nature, food, sea, ocean",
+    "code": ":blowfish:",
+    "categ": "nature",
+    "rank": 64
+  },
+  {
+    "name": "crocodile",
+    "alt": "animal, alligator, nature, reptile",
+    "code": ":crocodile:",
+    "categ": "nature",
+    "rank": 65
+  },
+  {
+    "name": "dromedary_camel",
+    "alt": "animal, hot, desert, hump",
+    "code": ":dromedary_camel:",
+    "categ": "nature",
+    "rank": 66
+  },
+  {
+    "name": "leopard",
+    "alt": "animal, nature",
+    "code": ":leopard:",
+    "categ": "nature",
+    "rank": 67
+  },
+  {
+    "name": "cat2",
+    "alt": "animal, kitty, kitten, meow, pet, cats",
+    "code": ":cat2:",
+    "categ": "nature",
+    "rank": 68
+  },
+  {
+    "name": "poodle",
+    "alt": "animal, dog, 101, nature, pet",
+    "code": ":poodle:",
+    "categ": "nature",
+    "rank": 69
+  },
+  {
+    "name": "paw_prints",
+    "alt": "animal",
+    "code": ":paw_prints:",
+    "categ": "nature",
+    "rank": 70
+  },
+  {
+    "name": "bouquet",
+    "alt": "flowers, nature, spring",
+    "code": ":bouquet:",
+    "categ": "nature",
+    "rank": 71
+  },
+  {
+    "name": "cherry_blossom",
+    "alt": "floral, nature, plant, spring, flower",
+    "code": ":cherry_blossom:",
+    "categ": "nature",
+    "rank": 72
+  },
+  {
+    "name": "tulip",
+    "alt": "floral, flowers, plant, nature, summer, spring",
+    "code": ":tulip:",
+    "categ": "nature",
+    "rank": 73
+  },
+  {
+    "name": "four_leaf_clover",
+    "alt": "vegetable, plant, nature, lucky",
+    "code": ":four_leaf_clover:",
+    "categ": "nature",
+    "rank": 74
+  },
+  {
+    "name": "rose",
+    "alt": "floral, flowers, valentines, love, spring",
+    "code": ":rose:",
+    "categ": "nature",
+    "rank": 75
+  },
+  {
+    "name": "sunflower",
+    "alt": "floral, nature, plant, fall",
+    "code": ":sunflower:",
+    "categ": "nature",
+    "rank": 76
+  },
+  {
+    "name": "hibiscus",
+    "alt": "floral, plant, vegetable, flowers, beach",
+    "code": ":hibiscus:",
+    "categ": "nature",
+    "rank": 77
+  },
+  {
+    "name": "maple_leaf",
+    "alt": "nature, plant, vegetable, canada, fall",
+    "code": ":maple_leaf:",
+    "categ": "nature",
+    "rank": 78
+  },
+  {
+    "name": "leaves",
+    "alt": "nature, plant, tree, vegetable, grass, lawn, spring",
+    "code": ":leaves:",
+    "categ": "nature",
+    "rank": 79
+  },
+  {
+    "name": "fallen_leaf",
+    "alt": "nature, plant, vegetable, leaves",
+    "code": ":fallen_leaf:",
+    "categ": "nature",
+    "rank": 80
+  },
+  {
+    "name": "herb",
+    "alt": "vegetable, plant, medicine, weed, grass, lawn",
+    "code": ":herb:",
+    "categ": "nature",
+    "rank": 81
+  },
+  {
+    "name": "mushroom",
+    "alt": "plant, vegetable",
+    "code": ":mushroom:",
+    "categ": "nature",
+    "rank": 82
+  },
+  {
+    "name": "cactus",
+    "alt": "vegetable, plant, nature",
+    "code": ":cactus:",
+    "categ": "nature",
+    "rank": 83
+  },
+  {
+    "name": "palm_tree",
+    "alt": "plant, vegetable, nature, summer, beach",
+    "code": ":palm_tree:",
+    "categ": "nature",
+    "rank": 84
+  },
+  {
+    "name": "evergreen_tree",
+    "alt": "plant, nature",
+    "code": ":evergreen_tree:",
+    "categ": "nature",
+    "rank": 85
+  },
+  {
+    "name": "deciduous_tree",
+    "alt": "plant, nature",
+    "code": ":deciduous_tree:",
+    "categ": "nature",
+    "rank": 86
+  },
+  {
+    "name": "chestnut",
+    "alt": "food, squirrel",
+    "code": ":chestnut:",
+    "categ": "nature",
+    "rank": 87
+  },
+  {
+    "name": "seedling",
+    "alt": "plant, nature, grass, lawn, spring",
+    "code": ":seedling:",
+    "categ": "nature",
+    "rank": 88
+  },
+  {
+    "name": "blossom",
+    "alt": "nature, flowers, yellow",
+    "code": ":blossom:",
+    "categ": "nature",
+    "rank": 89
+  },
+  {
+    "name": "ear_of_rice",
+    "alt": "nature, plant",
+    "code": ":ear_of_rice:",
+    "categ": "nature",
+    "rank": 90
+  },
+  {
+    "name": "shell",
+    "alt": "nature, sea, beach",
+    "code": ":shell:",
+    "categ": "nature",
+    "rank": 91
+  },
+  {
+    "name": "globe_with_meridians",
+    "alt": "earth, international, world, internet, interweb, i18n",
+    "code": ":globe_with_meridians:",
+    "categ": "nature",
+    "rank": 92
+  },
+  {
+    "name": "sun_with_face",
+    "alt": "nature, morning, sky",
+    "code": ":sun_with_face:",
+    "categ": "nature",
+    "rank": 93
+  },
+  {
+    "name": "full_moon_with_face",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":full_moon_with_face:",
+    "categ": "nature",
+    "rank": 94
+  },
+  {
+    "name": "new_moon_with_face",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":new_moon_with_face:",
+    "categ": "nature",
+    "rank": 95
+  },
+  {
+    "name": "new_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":new_moon:",
+    "categ": "nature",
+    "rank": 96
+  },
+  {
+    "name": "waxing_crescent_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":waxing_crescent_moon:",
+    "categ": "nature",
+    "rank": 97
+  },
+  {
+    "name": "first_quarter_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":first_quarter_moon:",
+    "categ": "nature",
+    "rank": 98
+  },
+  {
+    "name": "waxing_gibbous_moon",
+    "code": ":waxing_gibbous_moon:",
+    "categ": "nature",
+    "rank": 99
+  },
+  {
+    "name": "full_moon",
+    "alt": "nature, yellow, twilight, planet, space, night, evening, sleep",
+    "code": ":full_moon:",
+    "categ": "nature",
+    "rank": 100
+  },
+  {
+    "name": "waning_gibbous_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep, waxing_gibbous_moon",
+    "code": ":waning_gibbous_moon:",
+    "categ": "nature",
+    "rank": 101
+  },
+  {
+    "name": "last_quarter_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":last_quarter_moon:",
+    "categ": "nature",
+    "rank": 102
+  },
+  {
+    "name": "waning_crescent_moon",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":waning_crescent_moon:",
+    "categ": "nature",
+    "rank": 103
+  },
+  {
+    "name": "last_quarter_moon_with_face",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":last_quarter_moon_with_face:",
+    "categ": "nature",
+    "rank": 104
+  },
+  {
+    "name": "first_quarter_moon_with_face",
+    "alt": "nature, twilight, planet, space, night, evening, sleep",
+    "code": ":first_quarter_moon_with_face:",
+    "categ": "nature",
+    "rank": 105
+  },
+  {
+    "name": "crescent_moon",
+    "alt": "night, sleep, sky, evening, magic",
+    "code": ":crescent_moon:",
+    "categ": "nature",
+    "rank": 106
+  },
+  {
+    "name": "earth_africa",
+    "alt": "europe, emea, globe, world, international",
+    "code": ":earth_africa:",
+    "categ": "nature",
+    "rank": 107
+  },
+  {
+    "name": "earth_americas",
+    "alt": "globe, world, USA, international",
+    "code": ":earth_americas:",
+    "categ": "nature",
+    "rank": 108
+  },
+  {
+    "name": "earth_asia",
+    "alt": "globe, world, east, international",
+    "code": ":earth_asia:",
+    "categ": "nature",
+    "rank": 109
+  },
+  {
+    "name": "volcano",
+    "alt": "photo, nature, disaster",
+    "code": ":volcano:",
+    "categ": "nature",
+    "rank": 110
+  },
+  {
+    "name": "milky_way",
+    "alt": "photo, space, stars",
+    "code": ":milky_way:",
+    "categ": "nature",
+    "rank": 111
+  },
+  {
+    "name": "partly_sunny",
+    "alt": "weather, nature, cloudy, morning, fall, spring",
+    "code": ":partly_sunny:",
+    "categ": "nature",
+    "rank": 112
+  },
+  {
+    "name": "octocat",
+    "alt": "github, animal, octopus, custom_",
+    "code": ":octocat:",
+    "categ": "nature",
+    "rank": 113,
+    "ios": false
+  },
+  {
+    "name": "squirrel",
+    "alt": "animal",
+    "code": ":squirrel:",
+    "categ": "nature",
+    "rank": 114,
+    "ios": false
+  },
+  {
+    "name": "bamboo",
+    "alt": "plant, nature, vegetable, panda",
+    "code": ":bamboo:",
+    "categ": "objects",
+    "rank": 0
+  },
+  {
+    "name": "gift_heart",
+    "alt": "heart, love, valentines",
+    "code": ":gift_heart:",
+    "categ": "objects",
+    "rank": 1
+  },
+  {
+    "name": "dolls",
+    "alt": "japanese, toy, kimono",
+    "code": ":dolls:",
+    "categ": "objects",
+    "rank": 2
+  },
+  {
+    "name": "school_satchel",
+    "alt": "student, education, bag",
+    "code": ":school_satchel:",
+    "categ": "objects",
+    "rank": 3
+  },
+  {
+    "name": "mortar_board",
+    "alt": "edu, university, school, college, degree, graduation, cap, hat, legal, learn, education",
+    "code": ":mortar_board:",
+    "categ": "objects",
+    "rank": 4
+  },
+  {
+    "name": "flags",
+    "alt": "fish, japanese, koinobori, carp, banner",
+    "code": ":flags:",
+    "categ": "objects",
+    "rank": 5
+  },
+  {
+    "name": "fireworks",
+    "alt": "photo, festival, carnival, congratulations",
+    "code": ":fireworks:",
+    "categ": "objects",
+    "rank": 6
+  },
+  {
+    "name": "sparkler",
+    "alt": "stars, night, shine",
+    "code": ":sparkler:",
+    "categ": "objects",
+    "rank": 7
+  },
+  {
+    "name": "wind_chime",
+    "alt": "nature, ding, spring, bell",
+    "code": ":wind_chime:",
+    "categ": "objects",
+    "rank": 8
+  },
+  {
+    "name": "rice_scene",
+    "alt": "photo, japan, asia, tsukimi",
+    "code": ":rice_scene:",
+    "categ": "objects",
+    "rank": 9
+  },
+  {
+    "name": "jack_o_lantern",
+    "alt": "halloween, light, pumpkin, creepy, fall",
+    "code": ":jack_o_lantern:",
+    "categ": "objects",
+    "rank": 10
+  },
+  {
+    "name": "ghost",
+    "alt": "boom, halloween, spooky, scary",
+    "code": ":ghost:",
+    "categ": "objects",
+    "rank": 11
+  },
+  {
+    "name": "santa",
+    "alt": "christmas, festival, man, male, xmas, father christmas",
+    "code": ":santa:",
+    "categ": "objects",
+    "rank": 12
+  },
+  {
+    "name": "christmas_tree",
+    "alt": "festival, vacation, december, xmas, celebration",
+    "code": ":christmas_tree:",
+    "categ": "objects",
+    "rank": 13
+  },
+  {
+    "name": "gift",
+    "alt": "present, birthday, christmas, xmas",
+    "code": ":gift:",
+    "categ": "objects",
+    "rank": 14
+  },
+  {
+    "name": "bell",
+    "alt": "sound, notification, christmas, xmas, chime",
+    "code": ":bell:",
+    "categ": "objects",
+    "rank": 15
+  },
+  {
+    "name": "no_bell",
+    "alt": "sound, volume, mute, quiet, silent",
+    "code": ":no_bell:",
+    "categ": "objects",
+    "rank": 16
+  },
+  {
+    "name": "tanabata_tree",
+    "alt": "plant, nature, branch, summer",
+    "code": ":tanabata_tree:",
+    "categ": "objects",
+    "rank": 17
+  },
+  {
+    "name": "tada",
+    "alt": "party, contulations, birthday, magic, circus",
+    "code": ":tada:",
+    "categ": "objects",
+    "rank": 18
+  },
+  {
+    "name": "confetti_ball",
+    "alt": "celebration, festival, party, birthday, circus",
+    "code": ":confetti_ball:",
+    "categ": "objects",
+    "rank": 19
+  },
+  {
+    "name": "balloon",
+    "alt": "party, celebration, birthday, circus",
+    "code": ":balloon:",
+    "categ": "objects",
+    "rank": 20
+  },
+  {
+    "name": "crystal_ball",
+    "alt": "disco, party, magic, circus, fortune_teller",
+    "code": ":crystal_ball:",
+    "categ": "objects",
+    "rank": 21
+  },
+  {
+    "name": "cd",
+    "alt": "technology, dvd, disk, disc, 90s",
+    "code": ":cd:",
+    "categ": "objects",
+    "rank": 22
+  },
+  {
+    "name": "dvd",
+    "alt": "cd, disk, disc",
+    "code": ":dvd:",
+    "categ": "objects",
+    "rank": 23
+  },
+  {
+    "name": "floppy_disk",
+    "alt": "oldschool, technology, save, 90s, 80s",
+    "code": ":floppy_disk:",
+    "categ": "objects",
+    "rank": 24
+  },
+  {
+    "name": "camera",
+    "alt": "gadgets, photo",
+    "code": ":camera:",
+    "categ": "objects",
+    "rank": 25
+  },
+  {
+    "name": "video_camera",
+    "alt": "film, record",
+    "code": ":video_camera:",
+    "categ": "objects",
+    "rank": 26
+  },
+  {
+    "name": "movie_camera",
+    "alt": "film, record",
+    "code": ":movie_camera:",
+    "categ": "objects",
+    "rank": 27
+  },
+  {
+    "name": "computer",
+    "alt": "tech, laptop, screen, display, monitor",
+    "code": ":computer:",
+    "categ": "objects",
+    "rank": 28
+  },
+  {
+    "name": "tv",
+    "alt": "television, technology, program, oldschool, show",
+    "code": ":tv:",
+    "categ": "objects",
+    "rank": 29
+  },
+  {
+    "name": "iphone",
+    "alt": "technology, apple, gadgets, dial",
+    "code": ":iphone:",
+    "categ": "objects",
+    "rank": 30
+  },
+  {
+    "name": "phone",
+    "alt": "technology, communication, dial, telephone",
+    "code": ":phone:",
+    "categ": "objects",
+    "rank": 31
+  },
+  {
+    "name": "telephone",
+    "alt": "calling",
+    "code": ":telephone:",
+    "categ": "objects",
+    "rank": 32
+  },
+  {
+    "name": "telephone_receiver",
+    "alt": "technology, communication, dial",
+    "code": ":telephone_receiver:",
+    "categ": "objects",
+    "rank": 33
+  },
+  {
+    "name": "pager",
+    "alt": "bbcall, oldschool, 90s",
+    "code": ":pager:",
+    "categ": "objects",
+    "rank": 34
+  },
+  {
+    "name": "fax",
+    "alt": "communication, technology",
+    "code": ":fax:",
+    "categ": "objects",
+    "rank": 35
+  },
+  {
+    "name": "minidisc",
+    "alt": "technology, record, data, disk, 90s",
+    "code": ":minidisc:",
+    "categ": "objects",
+    "rank": 36
+  },
+  {
+    "name": "vhs",
+    "alt": "record, video, oldschool, 90s, 80s",
+    "code": ":vhs:",
+    "categ": "objects",
+    "rank": 37
+  },
+  {
+    "name": "sound",
+    "alt": "loud, noise, volume, speaker, broadcast",
+    "code": ":sound:",
+    "categ": "objects",
+    "rank": 38
+  },
+  {
+    "name": "speaker",
+    "alt": "sound, volume, silence, broadcast",
+    "code": ":speaker:",
+    "categ": "objects",
+    "rank": 39
+  },
+  {
+    "name": "mute",
+    "alt": "sound, volume, silence, quiet",
+    "code": ":mute:",
+    "categ": "objects",
+    "rank": 40
+  },
+  {
+    "name": "loudspeaker",
+    "alt": "volume, sound",
+    "code": ":loudspeaker:",
+    "categ": "objects",
+    "rank": 41
+  },
+  {
+    "name": "mega",
+    "alt": "sound, speaker, volume",
+    "code": ":mega:",
+    "categ": "objects",
+    "rank": 42
+  },
+  {
+    "name": "hourglass",
+    "alt": "time, clock, oldschool, limit, exam, quiz, test",
+    "code": ":hourglass:",
+    "categ": "objects",
+    "rank": 43
+  },
+  {
+    "name": "hourglass_flowing_sand",
+    "alt": "oldschool, time, countdown",
+    "code": ":hourglass_flowing_sand:",
+    "categ": "objects",
+    "rank": 44
+  },
+  {
+    "name": "alarm_clock",
+    "alt": "time, wake",
+    "code": ":alarm_clock:",
+    "categ": "objects",
+    "rank": 45
+  },
+  {
+    "name": "watch",
+    "alt": "clock, time, accessories",
+    "code": ":watch:",
+    "categ": "objects",
+    "rank": 46
+  },
+  {
+    "name": "radio",
+    "alt": "communication, music, podcast, program",
+    "code": ":radio:",
+    "categ": "objects",
+    "rank": 47
+  },
+  {
+    "name": "satellite",
+    "alt": "communication, future, radio, space",
+    "code": ":satellite:",
+    "categ": "objects",
+    "rank": 48
+  },
+  {
+    "name": "loop",
+    "alt": "tape, cassette",
+    "code": ":loop:",
+    "categ": "objects",
+    "rank": 49
+  },
+  {
+    "name": "mag",
+    "alt": "magnifying, glass, search, zoom, find, detective",
+    "code": ":mag:",
+    "categ": "objects",
+    "rank": 50
+  },
+  {
+    "name": "mag_right",
+    "alt": "magnifying, glass, search, zoom, find, detective",
+    "code": ":mag_right:",
+    "categ": "objects",
+    "rank": 51
+  },
+  {
+    "name": "unlock",
+    "alt": "privacy, security",
+    "code": ":unlock:",
+    "categ": "objects",
+    "rank": 52
+  },
+  {
+    "name": "lock",
+    "alt": "security, password, padlock",
+    "code": ":lock:",
+    "categ": "objects",
+    "rank": 53
+  },
+  {
+    "name": "lock_with_ink_pen",
+    "alt": "security, secret",
+    "code": ":lock_with_ink_pen:",
+    "categ": "objects",
+    "rank": 54
+  },
+  {
+    "name": "closed_lock_with_key",
+    "alt": "security, privacy",
+    "code": ":closed_lock_with_key:",
+    "categ": "objects",
+    "rank": 55
+  },
+  {
+    "name": "key",
+    "alt": "lock, door, password",
+    "code": ":key:",
+    "categ": "objects",
+    "rank": 56
+  },
+  {
+    "name": "bulb",
+    "alt": "light, electricity, idea",
+    "code": ":bulb:",
+    "categ": "objects",
+    "rank": 57
+  },
+  {
+    "name": "flashlight",
+    "alt": "dark, camping, sight, night",
+    "code": ":flashlight:",
+    "categ": "objects",
+    "rank": 58
+  },
+  {
+    "name": "high_brightness",
+    "alt": "sun, light",
+    "code": ":high_brightness:",
+    "categ": "objects",
+    "rank": 59
+  },
+  {
+    "name": "low_brightness",
+    "alt": "sun, afternoon, warm, summer",
+    "code": ":low_brightness:",
+    "categ": "objects",
+    "rank": 60
+  },
+  {
+    "name": "electric_plug",
+    "alt": "charger, power",
+    "code": ":electric_plug:",
+    "categ": "objects",
+    "rank": 61
+  },
+  {
+    "name": "battery",
+    "alt": "power, energy, sustain",
+    "code": ":battery:",
+    "categ": "objects",
+    "rank": 62
+  },
+  {
+    "name": "calling",
+    "alt": "iphone, incoming",
+    "code": ":calling:",
+    "categ": "objects",
+    "rank": 63
+  },
+  {
+    "name": "email",
+    "alt": "envelope, letter, postal, inbox, communication",
+    "code": ":email:",
+    "categ": "objects",
+    "rank": 64
+  },
+  {
+    "name": "mailbox",
+    "alt": "email, inbox, communication",
+    "code": ":mailbox:",
+    "categ": "objects",
+    "rank": 65
+  },
+  {
+    "name": "postbox",
+    "alt": "email, letter, envelope",
+    "code": ":postbox:",
+    "categ": "objects",
+    "rank": 66
+  },
+  {
+    "name": "bath",
+    "alt": "clean, shower, bathroom",
+    "code": ":bath:",
+    "categ": "objects",
+    "rank": 67
+  },
+  {
+    "name": "bathtub",
+    "alt": "clean, shower, bathroom",
+    "code": ":bathtub:",
+    "categ": "objects",
+    "rank": 68
+  },
+  {
+    "name": "shower",
+    "alt": "water, clean, bathroom",
+    "code": ":shower:",
+    "categ": "objects",
+    "rank": 69
+  },
+  {
+    "name": "toilet",
+    "alt": "restroom, wc, washroom, bathroom, potty",
+    "code": ":toilet:",
+    "categ": "objects",
+    "rank": 70
+  },
+  {
+    "name": "wrench",
+    "alt": "tools, diy, ikea, fix, maintainer",
+    "code": ":wrench:",
+    "categ": "objects",
+    "rank": 71
+  },
+  {
+    "name": "nut_and_bolt",
+    "alt": "tools, handy, fix",
+    "code": ":nut_and_bolt:",
+    "categ": "objects",
+    "rank": 72
+  },
+  {
+    "name": "hammer",
+    "alt": "tools, verdict, judge, done, law, legal, ruling, gavel",
+    "code": ":hammer:",
+    "categ": "objects",
+    "rank": 73
+  },
+  {
+    "name": "seat",
+    "alt": "sit, airplane, transport, bus, flight, fly",
+    "code": ":seat:",
+    "categ": "objects",
+    "rank": 74
+  },
+  {
+    "name": "moneybag",
+    "alt": "dollar, payment, coins, sale",
+    "code": ":moneybag:",
+    "categ": "objects",
+    "rank": 75
+  },
+  {
+    "name": "yen",
+    "alt": "bill cash currency money, money, sales, japanese, dollar, currency",
+    "code": ":yen:",
+    "categ": "objects",
+    "rank": 76
+  },
+  {
+    "name": "dollar",
+    "alt": "bill cash currency money, money, sales, bill, currency",
+    "code": ":dollar:",
+    "categ": "objects",
+    "rank": 77
+  },
+  {
+    "name": "pound",
+    "alt": "bill cash currency money, british, sterling, money, sales, bills, uk, england, currency",
+    "code": ":pound:",
+    "categ": "objects",
+    "rank": 78
+  },
+  {
+    "name": "euro",
+    "alt": "bill cash currency money, money, sales, dollar, currency",
+    "code": ":euro:",
+    "categ": "objects",
+    "rank": 79
+  },
+  {
+    "name": "credit_card",
+    "alt": "money, sales, dollar, bill, payment, shopping",
+    "code": ":credit_card:",
+    "categ": "objects",
+    "rank": 80
+  },
+  {
+    "name": "money_with_wings",
+    "alt": "money, dollar, bills, payment, sale",
+    "code": ":money_with_wings:",
+    "categ": "objects",
+    "rank": 81
+  },
+  {
+    "name": "e-mail",
+    "alt": "mail, send, communication, inbox, email",
+    "code": ":e-mail:",
+    "categ": "objects",
+    "rank": 82
+  },
+  {
+    "name": "inbox_tray",
+    "alt": "email, documents",
+    "code": ":inbox_tray:",
+    "categ": "objects",
+    "rank": 83
+  },
+  {
+    "name": "outbox_tray",
+    "alt": "inbox, email",
+    "code": ":outbox_tray:",
+    "categ": "objects",
+    "rank": 84
+  },
+  {
+    "name": "envelope",
+    "alt": "message",
+    "code": ":envelope:",
+    "categ": "objects",
+    "rank": 85
+  },
+  {
+    "name": "incoming_envelope",
+    "alt": "email, inbox",
+    "code": ":incoming_envelope:",
+    "categ": "objects",
+    "rank": 86
+  },
+  {
+    "name": "postal_horn",
+    "alt": "instrument, music",
+    "code": ":postal_horn:",
+    "categ": "objects",
+    "rank": 87
+  },
+  {
+    "name": "mailbox_closed",
+    "alt": "email, communication, inbox",
+    "code": ":mailbox_closed:",
+    "categ": "objects",
+    "rank": 88
+  },
+  {
+    "name": "mailbox_with_mail",
+    "alt": "email, inbox, communication",
+    "code": ":mailbox_with_mail:",
+    "categ": "objects",
+    "rank": 89
+  },
+  {
+    "name": "mailbox_with_no_mail",
+    "alt": "email, inbox",
+    "code": ":mailbox_with_no_mail:",
+    "categ": "objects",
+    "rank": 90
+  },
+  {
+    "name": "package",
+    "alt": "box, mail, gift, cardboard, moving",
+    "code": ":package:",
+    "categ": "objects",
+    "rank": 91
+  },
+  {
+    "name": "door",
+    "alt": "house, entry, exit",
+    "code": ":door:",
+    "categ": "objects",
+    "rank": 92
+  },
+  {
+    "name": "smoking",
+    "alt": "smoke, kills, tobacco, cigarette, joint",
+    "code": ":smoking:",
+    "categ": "objects",
+    "rank": 93
+  },
+  {
+    "name": "bomb",
+    "alt": "boom, explode, explosion, terrorism",
+    "code": ":bomb:",
+    "categ": "objects",
+    "rank": 94
+  },
+  {
+    "name": "gun",
+    "alt": "violence, weapon, pistol, revolver",
+    "code": ":gun:",
+    "categ": "objects",
+    "rank": 95
+  },
+  {
+    "name": "hocho",
+    "alt": "knife, blade, cutlery, kitchen, weapon",
+    "code": ":hocho:",
+    "categ": "objects",
+    "rank": 96
+  },
+  {
+    "name": "pill",
+    "alt": "health, medicine, doctor, pharmacy, drug",
+    "code": ":pill:",
+    "categ": "objects",
+    "rank": 97
+  },
+  {
+    "name": "syringe",
+    "alt": "health, hospital, drugs, blood, medicine, needle, doctor, nurse",
+    "code": ":syringe:",
+    "categ": "objects",
+    "rank": 98
+  },
+  {
+    "name": "page_facing_up",
+    "alt": "documents, office, paper, information",
+    "code": ":page_facing_up:",
+    "categ": "objects",
+    "rank": 99
+  },
+  {
+    "name": "page_with_curl",
+    "alt": "documents, office, paper",
+    "code": ":page_with_curl:",
+    "categ": "objects",
+    "rank": 100
+  },
+  {
+    "name": "bookmark_tabs",
+    "alt": "favorite, save, order, tidy",
+    "code": ":bookmark_tabs:",
+    "categ": "objects",
+    "rank": 101
+  },
+  {
+    "name": "bar_chart",
+    "alt": "graph, presentation, stats",
+    "code": ":bar_chart:",
+    "categ": "objects",
+    "rank": 102
+  },
+  {
+    "name": "chart_with_upwards_trend",
+    "alt": "graph, presenetation, stats, recovery, business, economics, money, sales, good, success",
+    "code": ":chart_with_upwards_trend:",
+    "categ": "objects",
+    "rank": 103
+  },
+  {
+    "name": "chart_with_downwards_trend",
+    "alt": "graph, presentation, stats, recession, business, economics, money, sales, bad, failure",
+    "code": ":chart_with_downwards_trend:",
+    "categ": "objects",
+    "rank": 104
+  },
+  {
+    "name": "scroll",
+    "alt": "documents, ancient, history, paper",
+    "code": ":scroll:",
+    "categ": "objects",
+    "rank": 105
+  },
+  {
+    "name": "clipboard",
+    "alt": "stationery, documents",
+    "code": ":clipboard:",
+    "categ": "objects",
+    "rank": 106
+  },
+  {
+    "name": "calendar",
+    "alt": "schedule, date, planning",
+    "code": ":calendar:",
+    "categ": "objects",
+    "rank": 107
+  },
+  {
+    "name": "date",
+    "alt": "calendar, schedule",
+    "code": ":date:",
+    "categ": "objects",
+    "rank": 108
+  },
+  {
+    "name": "card_index",
+    "alt": "business, stationery",
+    "code": ":card_index:",
+    "categ": "objects",
+    "rank": 109
+  },
+  {
+    "name": "file_folder",
+    "alt": "documents, business, office",
+    "code": ":file_folder:",
+    "categ": "objects",
+    "rank": 110
+  },
+  {
+    "name": "open_file_folder",
+    "alt": "documents, load",
+    "code": ":open_file_folder:",
+    "categ": "objects",
+    "rank": 111
+  },
+  {
+    "name": "scissors",
+    "alt": "stationery, cut",
+    "code": ":scissors:",
+    "categ": "objects",
+    "rank": 112
+  },
+  {
+    "name": "pushpin",
+    "alt": "stationery, mark, here",
+    "code": ":pushpin:",
+    "categ": "objects",
+    "rank": 113
+  },
+  {
+    "name": "paperclip",
+    "alt": "documents, stationery",
+    "code": ":paperclip:",
+    "categ": "objects",
+    "rank": 114
+  },
+  {
+    "name": "black_nib",
+    "alt": "pen, stationery, writing, write",
+    "code": ":black_nib:",
+    "categ": "objects",
+    "rank": 115
+  },
+  {
+    "name": "pencil2",
+    "alt": "stationery, write, paper, writing, school, study",
+    "code": ":pencil2:",
+    "categ": "objects",
+    "rank": 116
+  },
+  {
+    "name": "straight_ruler",
+    "alt": "stationery, calculate, length, math, school, drawing, architect, sketch",
+    "code": ":straight_ruler:",
+    "categ": "objects",
+    "rank": 117
+  },
+  {
+    "name": "triangular_ruler",
+    "alt": "stationery, math, architect, sketch",
+    "code": ":triangular_ruler:",
+    "categ": "objects",
+    "rank": 118
+  },
+  {
+    "name": "closed_book",
+    "alt": "read, library, knowledge, textbook, learn",
+    "code": ":closed_book:",
+    "categ": "objects",
+    "rank": 119
+  },
+  {
+    "name": "green_book",
+    "alt": "read, library, knowledge, study",
+    "code": ":green_book:",
+    "categ": "objects",
+    "rank": 120
+  },
+  {
+    "name": "blue_book",
+    "alt": "read, library, knowledge, learn, study",
+    "code": ":blue_book:",
+    "categ": "objects",
+    "rank": 121
+  },
+  {
+    "name": "orange_book",
+    "alt": "read, library, knowledge, textbook, study",
+    "code": ":orange_book:",
+    "categ": "objects",
+    "rank": 122
+  },
+  {
+    "name": "notebook",
+    "alt": "stationery, record, notes, paper, study",
+    "code": ":notebook:",
+    "categ": "objects",
+    "rank": 123
+  },
+  {
+    "name": "notebook_with_decorative_cover",
+    "alt": "classroom, notes, record, paper, study",
+    "code": ":notebook_with_decorative_cover:",
+    "categ": "objects",
+    "rank": 124
+  },
+  {
+    "name": "ledger",
+    "alt": "notes, paper",
+    "code": ":ledger:",
+    "categ": "objects",
+    "rank": 125
+  },
+  {
+    "name": "books",
+    "alt": "literature, library, study",
+    "code": ":books:",
+    "categ": "objects",
+    "rank": 126
+  },
+  {
+    "name": "bookmark",
+    "alt": "favorite, label, save",
+    "code": ":bookmark:",
+    "categ": "objects",
+    "rank": 127
+  },
+  {
+    "name": "name_badge",
+    "alt": "fire, forbid",
+    "code": ":name_badge:",
+    "categ": "objects",
+    "rank": 128
+  },
+  {
+    "name": "microscope",
+    "alt": "laboratory, experiment, zoomin, science, study",
+    "code": ":microscope:",
+    "categ": "objects",
+    "rank": 129
+  },
+  {
+    "name": "telescope",
+    "alt": "stars, space, zoom",
+    "code": ":telescope:",
+    "categ": "objects",
+    "rank": 130
+  },
+  {
+    "name": "newspaper",
+    "alt": "press, headline",
+    "code": ":newspaper:",
+    "categ": "objects",
+    "rank": 131
+  },
+  {
+    "name": "football",
+    "alt": "sport, sports, balls, NFL",
+    "code": ":football:",
+    "categ": "objects",
+    "rank": 132
+  },
+  {
+    "name": "basketball",
+    "alt": "sport, sports, balls, NBA",
+    "code": ":basketball:",
+    "categ": "objects",
+    "rank": 133
+  },
+  {
+    "name": "soccer",
+    "alt": "sport, sports, balls, football, fifa",
+    "code": ":soccer:",
+    "categ": "objects",
+    "rank": 134
+  },
+  {
+    "name": "baseball",
+    "alt": "sport, sports, balls, MLB",
+    "code": ":baseball:",
+    "categ": "objects",
+    "rank": 135
+  },
+  {
+    "name": "tennis",
+    "alt": "sport, sports, balls, green",
+    "code": ":tennis:",
+    "categ": "objects",
+    "rank": 136
+  },
+  {
+    "name": "8ball",
+    "alt": "magic_ball, pool, hobby, game, luck, magic",
+    "code": ":8ball:",
+    "categ": "objects",
+    "rank": 137
+  },
+  {
+    "name": "rugby_football",
+    "alt": "sport, sports, team",
+    "code": ":rugby_football:",
+    "categ": "objects",
+    "rank": 138
+  },
+  {
+    "name": "bowling",
+    "alt": "sport, sports, fun, play",
+    "code": ":bowling:",
+    "categ": "objects",
+    "rank": 139
+  },
+  {
+    "name": "golf",
+    "alt": "sport, sports, business, flag, hole, summer",
+    "code": ":golf:",
+    "categ": "objects",
+    "rank": 140
+  },
+  {
+    "name": "mountain_bicyclist",
+    "alt": "sport, vehicle, transportation, sports, human, race, bike",
+    "code": ":mountain_bicyclist:",
+    "categ": "objects",
+    "rank": 141
+  },
+  {
+    "name": "bicyclist",
+    "alt": "sport, vehicle, sports, bike, exercise, hipster",
+    "code": ":bicyclist:",
+    "categ": "objects",
+    "rank": 142
+  },
+  {
+    "name": "horse_racing",
+    "alt": "sport, animal, betting, competition, gambling, luck",
+    "code": ":horse_racing:",
+    "categ": "objects",
+    "rank": 143
+  },
+  {
+    "name": "snowboarder",
+    "alt": "sport, sports, winter",
+    "code": ":snowboarder:",
+    "categ": "objects",
+    "rank": 144
+  },
+  {
+    "name": "swimmer",
+    "alt": "sport, sports, exercise, human, athlete, water, summer",
+    "code": ":swimmer:",
+    "categ": "objects",
+    "rank": 145
+  },
+  {
+    "name": "surfer",
+    "alt": "sport, sports, ocean, sea, summer, beach",
+    "code": ":surfer:",
+    "categ": "objects",
+    "rank": 146
+  },
+  {
+    "name": "ski",
+    "alt": "sport, sports, winter, cold, snow",
+    "code": ":ski:",
+    "categ": "objects",
+    "rank": 147
+  },
+  {
+    "name": "spades",
+    "alt": "cards, suit, poker, suits, magic",
+    "code": ":spades:",
+    "categ": "objects",
+    "rank": 148
+  },
+  {
+    "name": "hearts",
+    "alt": "heart, cards, suit, poker, magic, suits",
+    "code": ":hearts:",
+    "categ": "objects",
+    "rank": 149
+  },
+  {
+    "name": "clubs",
+    "alt": "cards, suit, poker, magic, suits",
+    "code": ":clubs:",
+    "categ": "objects",
+    "rank": 150
+  },
+  {
+    "name": "diamonds",
+    "alt": "cards, suit, poker, magic, suits",
+    "code": ":diamonds:",
+    "categ": "objects",
+    "rank": 151
+  },
+  {
+    "name": "gem",
+    "alt": "jewelery, blue, ruby, diamond, jewelry",
+    "code": ":gem:",
+    "categ": "objects",
+    "rank": 152
+  },
+  {
+    "name": "ring",
+    "alt": "jewelery, wedding, propose, marriage, valentines, diamond, fashion, jewelry, gem",
+    "code": ":ring:",
+    "categ": "objects",
+    "rank": 153
+  },
+  {
+    "name": "trophy",
+    "alt": "win, award, contest, place, ftw, ceremony",
+    "code": ":trophy:",
+    "categ": "objects",
+    "rank": 154
+  },
+  {
+    "name": "musical_score",
+    "alt": "treble, clef",
+    "code": ":musical_score:",
+    "categ": "objects",
+    "rank": 155
+  },
+  {
+    "name": "musical_keyboard",
+    "alt": "piano, instrument",
+    "code": ":musical_keyboard:",
+    "categ": "objects",
+    "rank": 156
+  },
+  {
+    "name": "violin",
+    "alt": "music, instrument, orchestra, symphony",
+    "code": ":violin:",
+    "categ": "objects",
+    "rank": 157
+  },
+  {
+    "name": "space_invader",
+    "alt": "game, arcade, play",
+    "code": ":space_invader:",
+    "categ": "objects",
+    "rank": 158
+  },
+  {
+    "name": "video_game",
+    "alt": "controller, play, console, PS4",
+    "code": ":video_game:",
+    "categ": "objects",
+    "rank": 159
+  },
+  {
+    "name": "black_joker",
+    "alt": "poker, cards, game, play, magic",
+    "code": ":black_joker:",
+    "categ": "objects",
+    "rank": 160
+  },
+  {
+    "name": "flower_playing_cards",
+    "alt": "floral, game, sunset, red",
+    "code": ":flower_playing_cards:",
+    "categ": "objects",
+    "rank": 161
+  },
+  {
+    "name": "game_die",
+    "alt": "dice, random, tabbletop, play, luck",
+    "code": ":game_die:",
+    "categ": "objects",
+    "rank": 162
+  },
+  {
+    "name": "dart",
+    "alt": "game, play, bar",
+    "code": ":dart:",
+    "categ": "objects",
+    "rank": 163
+  },
+  {
+    "name": "mahjong",
+    "alt": "game, play, chinese, kanji",
+    "code": ":mahjong:",
+    "categ": "objects",
+    "rank": 164
+  },
+  {
+    "name": "clapper",
+    "alt": "movie, film, record",
+    "code": ":clapper:",
+    "categ": "objects",
+    "rank": 165
+  },
+  {
+    "name": "memo",
+    "alt": "write, documents, stationery, pencil, paper, writing, legal, exam, quiz, test, study",
+    "code": ":memo:",
+    "categ": "objects",
+    "rank": 166
+  },
+  {
+    "name": "pencil",
+    "alt": "write",
+    "code": ":pencil:",
+    "categ": "objects",
+    "rank": 167
+  },
+  {
+    "name": "book",
+    "alt": "open_book, read, library, knowledge, literature, learn, study",
+    "code": ":book:",
+    "categ": "objects",
+    "rank": 168
+  },
+  {
+    "name": "art",
+    "alt": "design, paint, draw",
+    "code": ":art:",
+    "categ": "objects",
+    "rank": 169
+  },
+  {
+    "name": "microphone",
+    "alt": "sound, music, PA",
+    "code": ":microphone:",
+    "categ": "objects",
+    "rank": 170
+  },
+  {
+    "name": "headphones",
+    "alt": "music, score, gadgets",
+    "code": ":headphones:",
+    "categ": "objects",
+    "rank": 171
+  },
+  {
+    "name": "trumpet",
+    "alt": "music, brass",
+    "code": ":trumpet:",
+    "categ": "objects",
+    "rank": 172
+  },
+  {
+    "name": "saxophone",
+    "alt": "music, instrument, jazz, blues",
+    "code": ":saxophone:",
+    "categ": "objects",
+    "rank": 173
+  },
+  {
+    "name": "guitar",
+    "alt": "music, instrument",
+    "code": ":guitar:",
+    "categ": "objects",
+    "rank": 174
+  },
+  {
+    "name": "shoe",
+    "code": ":shoe:",
+    "categ": "objects",
+    "rank": 175
+  },
+  {
+    "name": "sandal",
+    "alt": "shoes, fashion, flip flops",
+    "code": ":sandal:",
+    "categ": "objects",
+    "rank": 176
+  },
+  {
+    "name": "high_heel",
+    "alt": "fashion, shoes, female, pumps, stiletto",
+    "code": ":high_heel:",
+    "categ": "objects",
+    "rank": 177
+  },
+  {
+    "name": "lipstick",
+    "alt": "female, girl, fashion, woman",
+    "code": ":lipstick:",
+    "categ": "objects",
+    "rank": 178
+  },
+  {
+    "name": "boot",
+    "alt": "shoes, fashion",
+    "code": ":boot:",
+    "categ": "objects",
+    "rank": 179
+  },
+  {
+    "name": "shirt",
+    "alt": "fashion, cloth,formal",
+    "code": ":shirt:",
+    "categ": "objects",
+    "rank": 180
+  },
+  {
+    "name": "tshirt",
+    "alt": "fashion, cloth, casual,tee",
+    "code": ":tshirt:",
+    "categ": "objects",
+    "rank": 181
+  },
+  {
+    "name": "necktie",
+    "alt": "shirt, suitup, formal, fashion, cloth, business",
+    "code": ":necktie:",
+    "categ": "objects",
+    "rank": 182
+  },
+  {
+    "name": "womans_clothes",
+    "alt": "fashion, shopping, female",
+    "code": ":womans_clothes:",
+    "categ": "objects",
+    "rank": 183
+  },
+  {
+    "name": "dress",
+    "alt": "clothes, fashion, shopping",
+    "code": ":dress:",
+    "categ": "objects",
+    "rank": 184
+  },
+  {
+    "name": "running_shirt_with_sash",
+    "alt": "play, pageant",
+    "code": ":running_shirt_with_sash:",
+    "categ": "objects",
+    "rank": 185
+  },
+  {
+    "name": "jeans",
+    "alt": "fashion, shopping",
+    "code": ":jeans:",
+    "categ": "objects",
+    "rank": 186
+  },
+  {
+    "name": "kimono",
+    "alt": "dress, fashion, women, female, japanese",
+    "code": ":kimono:",
+    "categ": "objects",
+    "rank": 187
+  },
+  {
+    "name": "bikini",
+    "alt": "swimming, female, woman, girl, fashion, beach, summer",
+    "code": ":bikini:",
+    "categ": "objects",
+    "rank": 188
+  },
+  {
+    "name": "ribbon",
+    "alt": "decoration, pink, girl, bowtie",
+    "code": ":ribbon:",
+    "categ": "objects",
+    "rank": 189
+  },
+  {
+    "name": "tophat",
+    "alt": "magic, gentleman, classy, circus",
+    "code": ":tophat:",
+    "categ": "objects",
+    "rank": 190
+  },
+  {
+    "name": "crown",
+    "alt": "king, kod, leader, royalty, lord",
+    "code": ":crown:",
+    "categ": "objects",
+    "rank": 191
+  },
+  {
+    "name": "womans_hat",
+    "alt": "fashion, accessories, female, lady, spring",
+    "code": ":womans_hat:",
+    "categ": "objects",
+    "rank": 192
+  },
+  {
+    "name": "mans_shoe",
+    "alt": "fashion, male",
+    "code": ":mans_shoe:",
+    "categ": "objects",
+    "rank": 193
+  },
+  {
+    "name": "closed_umbrella",
+    "alt": "weather, rain, drizzle",
+    "code": ":closed_umbrella:",
+    "categ": "objects",
+    "rank": 194
+  },
+  {
+    "name": "briefcase",
+    "alt": "business, documents, work, law, legal",
+    "code": ":briefcase:",
+    "categ": "objects",
+    "rank": 195
+  },
+  {
+    "name": "handbag",
+    "alt": "fashion, accessory, accessories, shopping",
+    "code": ":handbag:",
+    "categ": "objects",
+    "rank": 196
+  },
+  {
+    "name": "pouch",
+    "alt": "bag, accessories, shopping",
+    "code": ":pouch:",
+    "categ": "objects",
+    "rank": 197
+  },
+  {
+    "name": "purse",
+    "alt": "pocketbook, fashion, accessories, money, sales, shopping",
+    "code": ":purse:",
+    "categ": "objects",
+    "rank": 198
+  },
+  {
+    "name": "eyeglasses",
+    "alt": "fashion, accessories, eyesight, nerd, dork, geek",
+    "code": ":eyeglasses:",
+    "categ": "objects",
+    "rank": 199
+  },
+  {
+    "name": "fishing_pole_and_fish",
+    "alt": "food, hobby, summer",
+    "code": ":fishing_pole_and_fish:",
+    "categ": "objects",
+    "rank": 200
+  },
+  {
+    "name": "coffee",
+    "alt": "drink, beverage, cafe, espresso",
+    "code": ":coffee:",
+    "categ": "objects",
+    "rank": 201
+  },
+  {
+    "name": "tea",
+    "alt": "drink, bowl, breakfast, green, british",
+    "code": ":tea:",
+    "categ": "objects",
+    "rank": 202
+  },
+  {
+    "name": "sake",
+    "alt": "drink alcohol, wine, drink, drunk, beverage, japanese, alcohol, booze",
+    "code": ":sake:",
+    "categ": "objects",
+    "rank": 203
+  },
+  {
+    "name": "baby_bottle",
+    "alt": "food, container, milk",
+    "code": ":baby_bottle:",
+    "categ": "objects",
+    "rank": 204
+  },
+  {
+    "name": "beer",
+    "alt": "drink alcohol, relax, beverage, drink, drunk, party, pub, summer, alcohol, booze",
+    "code": ":beer:",
+    "categ": "objects",
+    "rank": 205
+  },
+  {
+    "name": "beers",
+    "alt": "drink alcohol, relax, beverage, drink, drunk, party, pub, summer, alcohol, booze",
+    "code": ":beers:",
+    "categ": "objects",
+    "rank": 206
+  },
+  {
+    "name": "cocktail",
+    "alt": "drink alcohol, drink, drunk, alcohol, beverage, booze",
+    "code": ":cocktail:",
+    "categ": "objects",
+    "rank": 207
+  },
+  {
+    "name": "tropical_drink",
+    "alt": "beverage, cocktail, summer, beach, alcohol, booze",
+    "code": ":tropical_drink:",
+    "categ": "objects",
+    "rank": 208
+  },
+  {
+    "name": "wine_glass",
+    "alt": "drink alcohol, drink, beverage, drunk, alcohol, booze",
+    "code": ":wine_glass:",
+    "categ": "objects",
+    "rank": 209
+  },
+  {
+    "name": "fork_and_knife",
+    "alt": "cutlery, kitchen",
+    "code": ":fork_and_knife:",
+    "categ": "objects",
+    "rank": 210
+  },
+  {
+    "name": "pizza",
+    "alt": "food, italian dairy, party",
+    "code": ":pizza:",
+    "categ": "objects",
+    "rank": 211
+  },
+  {
+    "name": "hamburger",
+    "alt": "food, american meat, meat, fast food, beef, cheeseburger, mcdonalds, burger king",
+    "code": ":hamburger:",
+    "categ": "objects",
+    "rank": 212
+  },
+  {
+    "name": "fries",
+    "alt": "food, american, chips, snack, fast food",
+    "code": ":fries:",
+    "categ": "objects",
+    "rank": 213
+  },
+  {
+    "name": "poultry_leg",
+    "alt": "food, meat, drumstick, bird, chicken, turkey",
+    "code": ":poultry_leg:",
+    "categ": "objects",
+    "rank": 214
+  },
+  {
+    "name": "meat_on_bone",
+    "alt": "food, meat, good, drumstick",
+    "code": ":meat_on_bone:",
+    "categ": "objects",
+    "rank": 215
+  },
+  {
+    "name": "spaghetti",
+    "alt": "food, italian noodles, italian, noodle",
+    "code": ":spaghetti:",
+    "categ": "objects",
+    "rank": 216
+  },
+  {
+    "name": "curry",
+    "alt": "food, indian, spicy, hot",
+    "code": ":curry:",
+    "categ": "objects",
+    "rank": 217
+  },
+  {
+    "name": "fried_shrimp",
+    "alt": "food, seafood, animal, appetizer, summer",
+    "code": ":fried_shrimp:",
+    "categ": "objects",
+    "rank": 218
+  },
+  {
+    "name": "bento",
+    "alt": "food, japanese, box",
+    "code": ":bento:",
+    "categ": "objects",
+    "rank": 219
+  },
+  {
+    "name": "sushi",
+    "alt": "food, japanese, fish, rice",
+    "code": ":sushi:",
+    "categ": "objects",
+    "rank": 220
+  },
+  {
+    "name": "fish_cake",
+    "alt": "food, japanese seafood, naruto, japan, sea, beach",
+    "code": ":fish_cake:",
+    "categ": "objects",
+    "rank": 221
+  },
+  {
+    "name": "rice_ball",
+    "alt": "food, japanese",
+    "code": ":rice_ball:",
+    "categ": "objects",
+    "rank": 222
+  },
+  {
+    "name": "rice_cracker",
+    "alt": "food, japanese",
+    "code": ":rice_cracker:",
+    "categ": "objects",
+    "rank": 223
+  },
+  {
+    "name": "rice",
+    "alt": "food, china, asian",
+    "code": ":rice:",
+    "categ": "objects",
+    "rank": 224
+  },
+  {
+    "name": "ramen",
+    "alt": "food noodles, food, japanese, noodle, chipsticks",
+    "code": ":ramen:",
+    "categ": "objects",
+    "rank": 225
+  },
+  {
+    "name": "stew",
+    "alt": "food, meat, soup",
+    "code": ":stew:",
+    "categ": "objects",
+    "rank": 226
+  },
+  {
+    "name": "oden",
+    "alt": "food, japanese",
+    "code": ":oden:",
+    "categ": "objects",
+    "rank": 227
+  },
+  {
+    "name": "dango",
+    "alt": "food, japanese, barbecue, meat",
+    "code": ":dango:",
+    "categ": "objects",
+    "rank": 228
+  },
+  {
+    "name": "egg",
+    "alt": "food,, food, breakfast, kitchen",
+    "code": ":egg:",
+    "categ": "objects",
+    "rank": 229
+  },
+  {
+    "name": "bread",
+    "alt": "food,, food, wheat, breakfast, toast",
+    "code": ":bread:",
+    "categ": "objects",
+    "rank": 230
+  },
+  {
+    "name": "doughnut",
+    "alt": "food, dessert, snack, sweet, donut",
+    "code": ":doughnut:",
+    "categ": "objects",
+    "rank": 231
+  },
+  {
+    "name": "custard",
+    "alt": "food, dessert",
+    "code": ":custard:",
+    "categ": "objects",
+    "rank": 232
+  },
+  {
+    "name": "icecream",
+    "alt": "food, dessert, hot, summer",
+    "code": ":icecream:",
+    "categ": "objects",
+    "rank": 233
+  },
+  {
+    "name": "ice_cream",
+    "alt": "food, dessert, hot",
+    "code": ":ice_cream:",
+    "categ": "objects",
+    "rank": 234
+  },
+  {
+    "name": "shaved_ice",
+    "alt": "food, dessert, hot, summer",
+    "code": ":shaved_ice:",
+    "categ": "objects",
+    "rank": 235
+  },
+  {
+    "name": "birthday",
+    "alt": "party, cake, celebration",
+    "code": ":birthday:",
+    "categ": "objects",
+    "rank": 236
+  },
+  {
+    "name": "cake",
+    "alt": "food, dessert",
+    "code": ":cake:",
+    "categ": "objects",
+    "rank": 237
+  },
+  {
+    "name": "cookie",
+    "alt": "food, dessert, snack, oreo, chocolate, sweet",
+    "code": ":cookie:",
+    "categ": "objects",
+    "rank": 238
+  },
+  {
+    "name": "chocolate_bar",
+    "alt": "food, dessert, snack, sweet",
+    "code": ":chocolate_bar:",
+    "categ": "objects",
+    "rank": 239
+  },
+  {
+    "name": "candy",
+    "alt": "food, dessert, snack, sweet",
+    "code": ":candy:",
+    "categ": "objects",
+    "rank": 240
+  },
+  {
+    "name": "lollipop",
+    "alt": "food, dessert, snack, candy, sweet",
+    "code": ":lollipop:",
+    "categ": "objects",
+    "rank": 241
+  },
+  {
+    "name": "honey_pot",
+    "alt": "food, dessert, bees, sweet, kitchen",
+    "code": ":honey_pot:",
+    "categ": "objects",
+    "rank": 242
+  },
+  {
+    "name": "apple",
+    "alt": "food, fruit, mac, school",
+    "code": ":apple:",
+    "categ": "objects",
+    "rank": 243
+  },
+  {
+    "name": "green_apple",
+    "alt": "food, fruit, nature",
+    "code": ":green_apple:",
+    "categ": "objects",
+    "rank": 244
+  },
+  {
+    "name": "tangerine",
+    "alt": "food, fruit, nature",
+    "code": ":tangerine:",
+    "categ": "objects",
+    "rank": 245
+  },
+  {
+    "name": "lemon",
+    "alt": "food, fruit, nature",
+    "code": ":lemon:",
+    "categ": "objects",
+    "rank": 246
+  },
+  {
+    "name": "cherries",
+    "alt": "food, fruit",
+    "code": ":cherries:",
+    "categ": "objects",
+    "rank": 247
+  },
+  {
+    "name": "grapes",
+    "alt": "food, fruit, wine",
+    "code": ":grapes:",
+    "categ": "objects",
+    "rank": 248
+  },
+  {
+    "name": "watermelon",
+    "alt": "food, fruit, picnic, summer",
+    "code": ":watermelon:",
+    "categ": "objects",
+    "rank": 249
+  },
+  {
+    "name": "strawberry",
+    "alt": "food, fruit, nature",
+    "code": ":strawberry:",
+    "categ": "objects",
+    "rank": 250
+  },
+  {
+    "name": "peach",
+    "alt": "food, fruit, nature",
+    "code": ":peach:",
+    "categ": "objects",
+    "rank": 251
+  },
+  {
+    "name": "melon",
+    "alt": "food, fruit, nature",
+    "code": ":melon:",
+    "categ": "objects",
+    "rank": 252
+  },
+  {
+    "name": "banana",
+    "alt": "food, fruit, monkey",
+    "code": ":banana:",
+    "categ": "objects",
+    "rank": 253
+  },
+  {
+    "name": "pear",
+    "alt": "food, fruit, nature",
+    "code": ":pear:",
+    "categ": "objects",
+    "rank": 254
+  },
+  {
+    "name": "pineapple",
+    "alt": "food, fruit, nature",
+    "code": ":pineapple:",
+    "categ": "objects",
+    "rank": 255
+  },
+  {
+    "name": "sweet_potato",
+    "alt": "food, vegetable, nature",
+    "code": ":sweet_potato:",
+    "categ": "objects",
+    "rank": 256
+  },
+  {
+    "name": "eggplant",
+    "alt": "food, vegetable, nature, aubergine",
+    "code": ":eggplant:",
+    "categ": "objects",
+    "rank": 257
+  },
+  {
+    "name": "tomato",
+    "alt": "food, fruit, vegetable, nature",
+    "code": ":tomato:",
+    "categ": "objects",
+    "rank": 258
+  },
+  {
+    "name": "corn",
+    "alt": "food, vegetable, plant",
+    "code": ":corn:",
+    "categ": "objects",
+    "rank": 259
+  },
+  {
+    "name": "house",
+    "alt": "building, home",
+    "code": ":house:",
+    "categ": "places",
+    "rank": 0
+  },
+  {
+    "name": "house_with_garden",
+    "alt": "building, home, plant, nature",
+    "code": ":house_with_garden:",
+    "categ": "places",
+    "rank": 1
+  },
+  {
+    "name": "school",
+    "alt": "building, student, education, learn, teach",
+    "code": ":school:",
+    "categ": "places",
+    "rank": 2
+  },
+  {
+    "name": "office",
+    "alt": "building, unit, bureau, work",
+    "code": ":office:",
+    "categ": "places",
+    "rank": 3
+  },
+  {
+    "name": "post_office",
+    "alt": "building, email, communication",
+    "code": ":post_office:",
+    "categ": "places",
+    "rank": 4
+  },
+  {
+    "name": "hospital",
+    "alt": "building, health, surgery, doctor",
+    "code": ":hospital:",
+    "categ": "places",
+    "rank": 5
+  },
+  {
+    "name": "bank",
+    "alt": "building, money, sales, cash, business, enterprise",
+    "code": ":bank:",
+    "categ": "places",
+    "rank": 6
+  },
+  {
+    "name": "convenience_store",
+    "alt": "building, shopping, groceries",
+    "code": ":convenience_store:",
+    "categ": "places",
+    "rank": 7
+  },
+  {
+    "name": "love_hotel",
+    "alt": "building, like, affection, dating",
+    "code": ":love_hotel:",
+    "categ": "places",
+    "rank": 8
+  },
+  {
+    "name": "hotel",
+    "alt": "building, whotel, accomodation, checkin",
+    "code": ":hotel:",
+    "categ": "places",
+    "rank": 9
+  },
+  {
+    "name": "wedding",
+    "alt": "building, love, like, affection, couple, marriage, bride, groom, church, heart",
+    "code": ":wedding:",
+    "categ": "places",
+    "rank": 10
+  },
+  {
+    "name": "church",
+    "alt": "building, religion, christ",
+    "code": ":church:",
+    "categ": "places",
+    "rank": 11
+  },
+  {
+    "name": "department_store",
+    "alt": "building, shopping, mall",
+    "code": ":department_store:",
+    "categ": "places",
+    "rank": 12
+  },
+  {
+    "name": "european_post_office",
+    "alt": "building, email",
+    "code": ":european_post_office:",
+    "categ": "places",
+    "rank": 13
+  },
+  {
+    "name": "city_sunrise",
+    "alt": "photo, good morning, dawn",
+    "code": ":city_sunrise:",
+    "categ": "places",
+    "rank": 14
+  },
+  {
+    "name": "city_sunset",
+    "alt": "photo, evening, sky, buildings",
+    "code": ":city_sunset:",
+    "categ": "places",
+    "rank": 15
+  },
+  {
+    "name": "japanese_castle",
+    "alt": "photo, building, asia",
+    "code": ":japanese_castle:",
+    "categ": "places",
+    "rank": 16
+  },
+  {
+    "name": "european_castle",
+    "alt": "building, royalty, history",
+    "code": ":european_castle:",
+    "categ": "places",
+    "rank": 17
+  },
+  {
+    "name": "tent",
+    "alt": "camping, photo, camp, outdoors",
+    "code": ":tent:",
+    "categ": "places",
+    "rank": 18
+  },
+  {
+    "name": "factory",
+    "alt": "building, industry, pollution, smoke",
+    "code": ":factory:",
+    "categ": "places",
+    "rank": 19
+  },
+  {
+    "name": "tokyo_tower",
+    "alt": "photo, japanese, asia",
+    "code": ":tokyo_tower:",
+    "categ": "places",
+    "rank": 20
+  },
+  {
+    "name": "japan",
+    "alt": "nation, country, japanese, asia, island",
+    "code": ":japan:",
+    "categ": "places",
+    "rank": 21
+  },
+  {
+    "name": "mount_fuji",
+    "alt": "photo, mountain, nature, japanese",
+    "code": ":mount_fuji:",
+    "categ": "places",
+    "rank": 22
+  },
+  {
+    "name": "sunrise_over_mountains",
+    "alt": "view, vacation, photo",
+    "code": ":sunrise_over_mountains:",
+    "categ": "places",
+    "rank": 23
+  },
+  {
+    "name": "sunrise",
+    "alt": "morning, view, vacation, photo",
+    "code": ":sunrise:",
+    "categ": "places",
+    "rank": 24
+  },
+  {
+    "name": "stars",
+    "alt": "night, photo, falling, sky, bright",
+    "code": ":stars:",
+    "categ": "places",
+    "rank": 25
+  },
+  {
+    "name": "statue_of_liberty",
+    "alt": "american, newyork, monument, head",
+    "code": ":statue_of_liberty:",
+    "categ": "places",
+    "rank": 26
+  },
+  {
+    "name": "bridge_at_night",
+    "alt": "photo, sanfrancisco",
+    "code": ":bridge_at_night:",
+    "categ": "places",
+    "rank": 27
+  },
+  {
+    "name": "carousel_horse",
+    "alt": "photo, carnival, ride",
+    "code": ":carousel_horse:",
+    "categ": "places",
+    "rank": 28
+  },
+  {
+    "name": "rainbow",
+    "alt": "nature, happy, unicorn, photo, sky, spring, color",
+    "code": ":rainbow:",
+    "categ": "places",
+    "rank": 29
+  },
+  {
+    "name": "ferris_wheel",
+    "alt": "photo, carnival, londoneye",
+    "code": ":ferris_wheel:",
+    "categ": "places",
+    "rank": 30
+  },
+  {
+    "name": "fountain",
+    "alt": "photo, summer, water, fresh",
+    "code": ":fountain:",
+    "categ": "places",
+    "rank": 31
+  },
+  {
+    "name": "roller_coaster",
+    "alt": "carnival, playground, photo, ride, fun",
+    "code": ":roller_coaster:",
+    "categ": "places",
+    "rank": 32
+  },
+  {
+    "name": "ship",
+    "alt": "vehicle, transportation, titanic, deploy, cruise",
+    "code": ":ship:",
+    "categ": "places",
+    "rank": 33
+  },
+  {
+    "name": "speedboat",
+    "alt": "vehicle, ship, transportation, summer",
+    "code": ":speedboat:",
+    "categ": "places",
+    "rank": 34
+  },
+  {
+    "name": "boat",
+    "alt": "vehicle, ship, summer, transportation, water, sailing, sailboat",
+    "code": ":boat:",
+    "categ": "places",
+    "rank": 35
+  },
+  {
+    "name": "sailboat",
+    "alt": "vehicle",
+    "code": ":sailboat:",
+    "categ": "places",
+    "rank": 36
+  },
+  {
+    "name": "rowboat",
+    "alt": "vehicle, sports, hobby, water, ship",
+    "code": ":rowboat:",
+    "categ": "places",
+    "rank": 37
+  },
+  {
+    "name": "anchor",
+    "alt": "ship, ferry, sea, boat",
+    "code": ":anchor:",
+    "categ": "places",
+    "rank": 38
+  },
+  {
+    "name": "rocket",
+    "alt": "launch, ship, staffmode, NASA, outer space, outer_space, fly",
+    "code": ":rocket:",
+    "categ": "places",
+    "rank": 39
+  },
+  {
+    "name": "airplane",
+    "alt": "vehicle, transportation, flight, fly",
+    "code": ":airplane:",
+    "categ": "places",
+    "rank": 40
+  },
+  {
+    "name": "helicopter",
+    "alt": "vehicle, transportation, fly",
+    "code": ":helicopter:",
+    "categ": "places",
+    "rank": 41
+  },
+  {
+    "name": "steam_locomotive",
+    "alt": "vehicle, transportation, train",
+    "code": ":steam_locomotive:",
+    "categ": "places",
+    "rank": 42
+  },
+  {
+    "name": "tram",
+    "alt": "vehicle, transportation",
+    "code": ":tram:",
+    "categ": "places",
+    "rank": 43
+  },
+  {
+    "name": "mountain_railway",
+    "alt": "vehicle, transportation",
+    "code": ":mountain_railway:",
+    "categ": "places",
+    "rank": 44
+  },
+  {
+    "name": "bike",
+    "alt": "vehicle, sports, bicycle, exercise, hipster",
+    "code": ":bike:",
+    "categ": "places",
+    "rank": 45
+  },
+  {
+    "name": "aerial_tramway",
+    "alt": "vehicle, transportation, ski",
+    "code": ":aerial_tramway:",
+    "categ": "places",
+    "rank": 46
+  },
+  {
+    "name": "suspension_railway",
+    "alt": "vehicle, transportation",
+    "code": ":suspension_railway:",
+    "categ": "places",
+    "rank": 47
+  },
+  {
+    "name": "mountain_cableway",
+    "alt": "vehicle, transportation, ski",
+    "code": ":mountain_cableway:",
+    "categ": "places",
+    "rank": 48
+  },
+  {
+    "name": "tractor",
+    "alt": "vehicle, car, farming, agriculture",
+    "code": ":tractor:",
+    "categ": "places",
+    "rank": 49
+  },
+  {
+    "name": "blue_car",
+    "alt": "vehicle, transportation",
+    "code": ":blue_car:",
+    "categ": "places",
+    "rank": 50
+  },
+  {
+    "name": "oncoming_automobile",
+    "alt": "vehicle, car, transportation",
+    "code": ":oncoming_automobile:",
+    "categ": "places",
+    "rank": 51
+  },
+  {
+    "name": "car",
+    "alt": "vehicle, car, red, transportation",
+    "code": ":car:",
+    "categ": "places",
+    "rank": 52
+  },
+  {
+    "name": "red_car",
+    "alt": "vehicle",
+    "code": ":red_car:",
+    "categ": "places",
+    "rank": 53
+  },
+  {
+    "name": "taxi",
+    "alt": "vehicle, car, uber, cars, transportation",
+    "code": ":taxi:",
+    "categ": "places",
+    "rank": 54
+  },
+  {
+    "name": "oncoming_taxi",
+    "alt": "vehicle, car, cars, uber",
+    "code": ":oncoming_taxi:",
+    "categ": "places",
+    "rank": 55
+  },
+  {
+    "name": "articulated_lorry",
+    "alt": "vehicle, cars, transportation, express",
+    "code": ":articulated_lorry:",
+    "categ": "places",
+    "rank": 56
+  },
+  {
+    "name": "bus",
+    "alt": "vehicle, car, transportation",
+    "code": ":bus:",
+    "categ": "places",
+    "rank": 57
+  },
+  {
+    "name": "oncoming_bus",
+    "alt": "vehicle, transportation",
+    "code": ":oncoming_bus:",
+    "categ": "places",
+    "rank": 58
+  },
+  {
+    "name": "rotating_light",
+    "alt": "police, ambulance, 911, emergency, alert, error, pinged, law, legal",
+    "code": ":rotating_light:",
+    "categ": "places",
+    "rank": 59
+  },
+  {
+    "name": "police_car",
+    "alt": "vehicle, cars, transportation, law, legal, enforcement",
+    "code": ":police_car:",
+    "categ": "places",
+    "rank": 60
+  },
+  {
+    "name": "oncoming_police_car",
+    "alt": "vehicle, law, legal, enforcement, 911",
+    "code": ":oncoming_police_car:",
+    "categ": "places",
+    "rank": 61
+  },
+  {
+    "name": "fire_engine",
+    "alt": "vehicle, transportation, cars",
+    "code": ":fire_engine:",
+    "categ": "places",
+    "rank": 62
+  },
+  {
+    "name": "ambulance",
+    "alt": "vehicle, health, 911, hospital",
+    "code": ":ambulance:",
+    "categ": "places",
+    "rank": 63
+  },
+  {
+    "name": "minibus",
+    "alt": "vehicle, car, transportation",
+    "code": ":minibus:",
+    "categ": "places",
+    "rank": 64
+  },
+  {
+    "name": "truck",
+    "alt": "vehicle, cars, transportation",
+    "code": ":truck:",
+    "categ": "places",
+    "rank": 65
+  },
+  {
+    "name": "train",
+    "alt": "vehicle, transportation, carriage, public, travel",
+    "code": ":train:",
+    "categ": "places",
+    "rank": 66
+  },
+  {
+    "name": "station",
+    "alt": "transportation, vehicle, public",
+    "code": ":station:",
+    "categ": "places",
+    "rank": 67
+  },
+  {
+    "name": "train2",
+    "alt": "vehicle, transportation",
+    "code": ":train2:",
+    "categ": "places",
+    "rank": 68
+  },
+  {
+    "name": "bullettrain_front",
+    "alt": "vehicle, transportation, speed, fast, public, travel",
+    "code": ":bullettrain_front:",
+    "categ": "places",
+    "rank": 69
+  },
+  {
+    "name": "bullettrain_side",
+    "alt": "vehicle, transportation",
+    "code": ":bullettrain_side:",
+    "categ": "places",
+    "rank": 70
+  },
+  {
+    "name": "light_rail",
+    "alt": "vehicle, transportation",
+    "code": ":light_rail:",
+    "categ": "places",
+    "rank": 71
+  },
+  {
+    "name": "monorail",
+    "alt": "vehicle, transportation",
+    "code": ":monorail:",
+    "categ": "places",
+    "rank": 72
+  },
+  {
+    "name": "railway_car",
+    "alt": "vehicle, transportation",
+    "code": ":railway_car:",
+    "categ": "places",
+    "rank": 73
+  },
+  {
+    "name": "trolleybus",
+    "alt": "vehicle, bart, transportation",
+    "code": ":trolleybus:",
+    "categ": "places",
+    "rank": 74
+  },
+  {
+    "name": "ticket",
+    "alt": "event, concert, pass",
+    "code": ":ticket:",
+    "categ": "places",
+    "rank": 75
+  },
+  {
+    "name": "fuelpump",
+    "alt": "gas station, petroleum",
+    "code": ":fuelpump:",
+    "categ": "places",
+    "rank": 76
+  },
+  {
+    "name": "vertical_traffic_light",
+    "alt": "transportation, driving",
+    "code": ":vertical_traffic_light:",
+    "categ": "places",
+    "rank": 77
+  },
+  {
+    "name": "traffic_light",
+    "alt": "stoplight, transportation, signal",
+    "code": ":traffic_light:",
+    "categ": "places",
+    "rank": 78
+  },
+  {
+    "name": "warning",
+    "alt": "exclamation, wip, alert, error, problem, issue",
+    "code": ":warning:",
+    "categ": "places",
+    "rank": 79
+  },
+  {
+    "name": "construction",
+    "alt": "wip, progress, caution, warning",
+    "code": ":construction:",
+    "categ": "places",
+    "rank": 80
+  },
+  {
+    "name": "beginner",
+    "alt": "badge, shield",
+    "code": ":beginner:",
+    "categ": "places",
+    "rank": 81
+  },
+  {
+    "name": "atm",
+    "alt": "money, sales, cash, blue-square, payment, bank",
+    "code": ":atm:",
+    "categ": "places",
+    "rank": 82
+  },
+  {
+    "name": "slot_machine",
+    "alt": "bet, gamble, vegas, fruit machine, luck, casino",
+    "code": ":slot_machine:",
+    "categ": "places",
+    "rank": 83
+  },
+  {
+    "name": "busstop",
+    "alt": "transportation, wait",
+    "code": ":busstop:",
+    "categ": "places",
+    "rank": 84
+  },
+  {
+    "name": "barber",
+    "alt": "hair, salon, style",
+    "code": ":barber:",
+    "categ": "places",
+    "rank": 85
+  },
+  {
+    "name": "hotsprings",
+    "alt": "bath, warm, relax",
+    "code": ":hotsprings:",
+    "categ": "places",
+    "rank": 86
+  },
+  {
+    "name": "checkered_flag",
+    "alt": "contest, finishline, rase, gokart",
+    "code": ":checkered_flag:",
+    "categ": "places",
+    "rank": 87
+  },
+  {
+    "name": "crossed_flags",
+    "alt": "japanese, nation, country, border",
+    "code": ":crossed_flags:",
+    "categ": "places",
+    "rank": 88
+  },
+  {
+    "name": "izakaya_lantern",
+    "alt": "light, paper, halloween, spooky",
+    "code": ":izakaya_lantern:",
+    "categ": "places",
+    "rank": 89
+  },
+  {
+    "name": "moyai",
+    "alt": "stone, easter island, beach, statue",
+    "code": ":moyai:",
+    "categ": "places",
+    "rank": 90
+  },
+  {
+    "name": "circus_tent",
+    "alt": "festival, carnival, party",
+    "code": ":circus_tent:",
+    "categ": "places",
+    "rank": 91
+  },
+  {
+    "name": "performing_arts",
+    "alt": "acting, theater, drama",
+    "code": ":performing_arts:",
+    "categ": "places",
+    "rank": 92
+  },
+  {
+    "name": "round_pushpin",
+    "alt": "stationery, location, map, here",
+    "code": ":round_pushpin:",
+    "categ": "places",
+    "rank": 93
+  },
+  {
+    "name": "triangular_flag_on_post",
+    "alt": "mark, milestone, place",
+    "code": ":triangular_flag_on_post:",
+    "categ": "places",
+    "rank": 94
+  },
+  {
+    "name": "jp",
+    "alt": "japan, nippon, nihon, japanese, nation, flag, country, banner",
+    "code": ":jp:",
+    "categ": "places",
+    "rank": 95
+  },
+  {
+    "name": "kr",
+    "alt": "korea, hanguk, nation, flag, country, banner",
+    "code": ":kr:",
+    "categ": "places",
+    "rank": 96
+  },
+  {
+    "name": "cn",
+    "alt": "china, prc, chinese, flag, country, nation, banner",
+    "code": ":cn:",
+    "categ": "places",
+    "rank": 97
+  },
+  {
+    "name": "us",
+    "alt": "usa, america, united states, nation, flag, american, country, banner",
+    "code": ":us:",
+    "categ": "places",
+    "rank": 98
+  },
+  {
+    "name": "fr",
+    "alt": "france, banner, flag, nation, french, country",
+    "code": ":fr:",
+    "categ": "places",
+    "rank": 99
+  },
+  {
+    "name": "es",
+    "alt": "spain, espana, flag, nation, country, banner",
+    "code": ":es:",
+    "categ": "places",
+    "rank": 100
+  },
+  {
+    "name": "it",
+    "alt": "italy, italia, flag, nation, country, banner",
+    "code": ":it:",
+    "categ": "places",
+    "rank": 101
+  },
+  {
+    "name": "ru",
+    "alt": "russia, russian, nation, flag, country, banner",
+    "code": ":ru:",
+    "categ": "places",
+    "rank": 102
+  },
+  {
+    "name": "gb",
+    "alt": "great britain, united kingdom, banner, nation, flag, british, UK, country, english, england, union jack",
+    "code": ":gb:",
+    "categ": "places",
+    "rank": 103
+  },
+  {
+    "name": "uk",
+    "alt": "great britain, united kingdom",
+    "code": ":uk:",
+    "categ": "places",
+    "rank": 104
+  },
+  {
+    "name": "de",
+    "alt": "germany, deutschland, german, nation, flag, country, banner",
+    "code": ":de:",
+    "categ": "places",
+    "rank": 105
+  },
+  {
+    "name": "one",
+    "alt": "1, blue-square, numbers",
+    "code": ":one:",
+    "categ": "symbols",
+    "rank": 0
+  },
+  {
+    "name": "two",
+    "alt": "2, numbers, prime, blue-square",
+    "code": ":two:",
+    "categ": "symbols",
+    "rank": 1
+  },
+  {
+    "name": "three",
+    "alt": "3, numbers, prime, blue-square",
+    "code": ":three:",
+    "categ": "symbols",
+    "rank": 2
+  },
+  {
+    "name": "four",
+    "alt": "4, numbers, blue-square",
+    "code": ":four:",
+    "categ": "symbols",
+    "rank": 3
+  },
+  {
+    "name": "five",
+    "alt": "5, numbers, blue-square, prime",
+    "code": ":five:",
+    "categ": "symbols",
+    "rank": 4
+  },
+  {
+    "name": "six",
+    "alt": "6, numbers, blue-square",
+    "code": ":six:",
+    "categ": "symbols",
+    "rank": 5
+  },
+  {
+    "name": "seven",
+    "alt": "7, numbers, blue-square, prime",
+    "code": ":seven:",
+    "categ": "symbols",
+    "rank": 6
+  },
+  {
+    "name": "eight",
+    "alt": "8, blue-square, numbers",
+    "code": ":eight:",
+    "categ": "symbols",
+    "rank": 7
+  },
+  {
+    "name": "nine",
+    "alt": "9, blue-square, numbers",
+    "code": ":nine:",
+    "categ": "symbols",
+    "rank": 8
+  },
+  {
+    "name": "keycap_ten",
+    "alt": "10, numbers, blue-square",
+    "code": ":keycap_ten:",
+    "categ": "symbols",
+    "rank": 9
+  },
+  {
+    "name": "1234",
+    "alt": "numbers, blue-square",
+    "code": ":1234:",
+    "categ": "symbols",
+    "rank": 10
+  },
+  {
+    "name": "zero",
+    "alt": "0, numbers, blue-square, null",
+    "code": ":zero:",
+    "categ": "symbols",
+    "rank": 11
+  },
+  {
+    "name": "hash",
+    "alt": "symbol, blue-square, twitter",
+    "code": ":hash:",
+    "categ": "symbols",
+    "rank": 12
+  },
+  {
+    "name": "symbols",
+    "alt": "blue-square, music, note, ampersand, percent, glyphs, characters",
+    "code": ":symbols:",
+    "categ": "symbols",
+    "rank": 13
+  },
+  {
+    "name": "arrow_backward",
+    "alt": "left, blue-square, direction",
+    "code": ":arrow_backward:",
+    "categ": "symbols",
+    "rank": 14
+  },
+  {
+    "name": "arrow_down",
+    "alt": "blue-square, direction, bottom",
+    "code": ":arrow_down:",
+    "categ": "symbols",
+    "rank": 15
+  },
+  {
+    "name": "arrow_forward",
+    "alt": "right, blue-square, direction",
+    "code": ":arrow_forward:",
+    "categ": "symbols",
+    "rank": 16
+  },
+  {
+    "name": "arrow_left",
+    "alt": "blue-square, previous, back",
+    "code": ":arrow_left:",
+    "categ": "symbols",
+    "rank": 17
+  },
+  {
+    "name": "capital_abcd",
+    "alt": "alphabet, words, blue-square",
+    "code": ":capital_abcd:",
+    "categ": "symbols",
+    "rank": 18
+  },
+  {
+    "name": "abcd",
+    "alt": "blue-square, alphabet",
+    "code": ":abcd:",
+    "categ": "symbols",
+    "rank": 19
+  },
+  {
+    "name": "abc",
+    "alt": "blue-square, alphabet",
+    "code": ":abc:",
+    "categ": "symbols",
+    "rank": 20
+  },
+  {
+    "name": "arrow_lower_left",
+    "alt": "blue-square, direction",
+    "code": ":arrow_lower_left:",
+    "categ": "symbols",
+    "rank": 21
+  },
+  {
+    "name": "arrow_lower_right",
+    "alt": "blue-square, direction",
+    "code": ":arrow_lower_right:",
+    "categ": "symbols",
+    "rank": 22
+  },
+  {
+    "name": "arrow_right",
+    "alt": "blue-square, next",
+    "code": ":arrow_right:",
+    "categ": "symbols",
+    "rank": 23
+  },
+  {
+    "name": "arrow_up",
+    "alt": "blue-square, continue, top, direction",
+    "code": ":arrow_up:",
+    "categ": "symbols",
+    "rank": 24
+  },
+  {
+    "name": "arrow_upper_left",
+    "alt": "blue-square, point, direction",
+    "code": ":arrow_upper_left:",
+    "categ": "symbols",
+    "rank": 25
+  },
+  {
+    "name": "arrow_upper_right",
+    "alt": "blue-square, point, direction",
+    "code": ":arrow_upper_right:",
+    "categ": "symbols",
+    "rank": 26
+  },
+  {
+    "name": "arrow_double_down",
+    "alt": "blue-square, direction, bottom",
+    "code": ":arrow_double_down:",
+    "categ": "symbols",
+    "rank": 27
+  },
+  {
+    "name": "arrow_double_up",
+    "alt": "blue-square, direction, top",
+    "code": ":arrow_double_up:",
+    "categ": "symbols",
+    "rank": 28
+  },
+  {
+    "name": "arrow_down_small",
+    "alt": "blue-square, direction, bottom",
+    "code": ":arrow_down_small:",
+    "categ": "symbols",
+    "rank": 29
+  },
+  {
+    "name": "arrow_heading_down",
+    "alt": "blue-square, direction, bottom",
+    "code": ":arrow_heading_down:",
+    "categ": "symbols",
+    "rank": 30
+  },
+  {
+    "name": "arrow_heading_up",
+    "alt": "blue-square, direction, top",
+    "code": ":arrow_heading_up:",
+    "categ": "symbols",
+    "rank": 31
+  },
+  {
+    "name": "leftwards_arrow_with_hook",
+    "alt": "back, return, blue-square, undo",
+    "code": ":leftwards_arrow_with_hook:",
+    "categ": "symbols",
+    "rank": 32
+  },
+  {
+    "name": "arrow_right_hook",
+    "alt": "blue-square, return, rotade, direction",
+    "code": ":arrow_right_hook:",
+    "categ": "symbols",
+    "rank": 33
+  },
+  {
+    "name": "left_right_arrow",
+    "alt": "shape, direction",
+    "code": ":left_right_arrow:",
+    "categ": "symbols",
+    "rank": 34
+  },
+  {
+    "name": "arrow_up_down",
+    "alt": "blue-square, direction, way",
+    "code": ":arrow_up_down:",
+    "categ": "symbols",
+    "rank": 35
+  },
+  {
+    "name": "arrow_up_small",
+    "alt": "blue-square, triangle, direction, point, forward, top",
+    "code": ":arrow_up_small:",
+    "categ": "symbols",
+    "rank": 36
+  },
+  {
+    "name": "arrows_clockwise",
+    "alt": "sync, cycle, round, repeat",
+    "code": ":arrows_clockwise:",
+    "categ": "symbols",
+    "rank": 37
+  },
+  {
+    "name": "arrows_counterclockwise",
+    "alt": "blue-square, sync, cycle",
+    "code": ":arrows_counterclockwise:",
+    "categ": "symbols",
+    "rank": 38
+  },
+  {
+    "name": "rewind",
+    "alt": "play, blue-square",
+    "code": ":rewind:",
+    "categ": "symbols",
+    "rank": 39
+  },
+  {
+    "name": "fast_forward",
+    "alt": "blue-square, play, speed, continue",
+    "code": ":fast_forward:",
+    "categ": "symbols",
+    "rank": 40
+  },
+  {
+    "name": "information_source",
+    "alt": "blue-square, alphabet, letter",
+    "code": ":information_source:",
+    "categ": "symbols",
+    "rank": 41
+  },
+  {
+    "name": "ok",
+    "alt": "good, agree, yes, blue-square",
+    "code": ":ok:",
+    "categ": "symbols",
+    "rank": 42
+  },
+  {
+    "name": "twisted_rightwards_arrows",
+    "alt": "blue-square, shuffle, music, random",
+    "code": ":twisted_rightwards_arrows:",
+    "categ": "symbols",
+    "rank": 43
+  },
+  {
+    "name": "repeat",
+    "alt": "loop, record",
+    "code": ":repeat:",
+    "categ": "symbols",
+    "rank": 44
+  },
+  {
+    "name": "repeat_one",
+    "alt": "blue-square, loop",
+    "code": ":repeat_one:",
+    "categ": "symbols",
+    "rank": 45
+  },
+  {
+    "name": "new",
+    "alt": "blue-square, words, start",
+    "code": ":new:",
+    "categ": "symbols",
+    "rank": 46
+  },
+  {
+    "name": "top",
+    "alt": "words, blue-square",
+    "code": ":top:",
+    "categ": "symbols",
+    "rank": 47
+  },
+  {
+    "name": "up",
+    "alt": "blue-square, above, high",
+    "code": ":up:",
+    "categ": "symbols",
+    "rank": 48
+  },
+  {
+    "name": "cool",
+    "alt": "words, blue-square",
+    "code": ":cool:",
+    "categ": "symbols",
+    "rank": 49
+  },
+  {
+    "name": "free",
+    "alt": "blue-square, words",
+    "code": ":free:",
+    "categ": "symbols",
+    "rank": 50
+  },
+  {
+    "name": "ng",
+    "alt": "blue-square, words, shape, icon",
+    "code": ":ng:",
+    "categ": "symbols",
+    "rank": 51
+  },
+  {
+    "name": "cinema",
+    "alt": "movie, blue-square, record, film",
+    "code": ":cinema:",
+    "categ": "symbols",
+    "rank": 52
+  },
+  {
+    "name": "koko",
+    "alt": "blue-square, here, katakana, japanese, destination",
+    "code": ":koko:",
+    "categ": "symbols",
+    "rank": 53
+  },
+  {
+    "name": "signal_strength",
+    "alt": "blue-square, reception, phone, internet, connection, wifi, bluetooth",
+    "code": ":signal_strength:",
+    "categ": "symbols",
+    "rank": 54
+  },
+  {
+    "name": "u5272",
+    "alt": "wari, cut, divide, chinese, kanji, pink-square",
+    "code": ":u5272:",
+    "categ": "symbols",
+    "rank": 55
+  },
+  {
+    "name": "u5408",
+    "alt": "japanese, chinese, join, kanji, red-square",
+    "code": ":u5408:",
+    "categ": "symbols",
+    "rank": 56
+  },
+  {
+    "name": "u55b6",
+    "alt": "ying, japanese, opening hours, orange-square",
+    "code": ":u55b6:",
+    "categ": "symbols",
+    "rank": 57
+  },
+  {
+    "name": "u6307",
+    "alt": "zhǐ, zhi, chinese, point, green-square, kanji",
+    "code": ":u6307:",
+    "categ": "symbols",
+    "rank": 58
+  },
+  {
+    "name": "u6708",
+    "alt": "yuè, yue, chinese, month, moon, japanese, orange-square, kanji",
+    "code": ":u6708:",
+    "categ": "symbols",
+    "rank": 59
+  },
+  {
+    "name": "u6709",
+    "alt": "yǒu, you, orange-square, chinese, have, kanji",
+    "code": ":u6709:",
+    "categ": "symbols",
+    "rank": 60
+  },
+  {
+    "name": "u6e80",
+    "alt": "mitsuru, full, chinese, japanese, red-square, kanji",
+    "code": ":u6e80:",
+    "categ": "symbols",
+    "rank": 61
+  },
+  {
+    "name": "u7121",
+    "alt": "wú, wu, nothing, chinese, kanji, japanese, orange-square",
+    "code": ":u7121:",
+    "categ": "symbols",
+    "rank": 62
+  },
+  {
+    "name": "u7533",
+    "alt": "shēn, shen, chinese, japanese, kanji, orange-square",
+    "code": ":u7533:",
+    "categ": "symbols",
+    "rank": 63
+  },
+  {
+    "name": "u7a7a",
+    "alt": "kōng, kong, kanji, japanese, chinese, empty, sky, blue-square",
+    "code": ":u7a7a:",
+    "categ": "symbols",
+    "rank": 64
+  },
+  {
+    "name": "u7981",
+    "alt": "jìn, jin, kanji, japanese, chinese, forbidden, limit, restricted, red-square",
+    "code": ":u7981:",
+    "categ": "symbols",
+    "rank": 65
+  },
+  {
+    "name": "sa",
+    "alt": "japanese, blue-square, katakana",
+    "code": ":sa:",
+    "categ": "symbols",
+    "rank": 66
+  },
+  {
+    "name": "restroom",
+    "alt": "blue-square, toilet, refresh, wc, gender",
+    "code": ":restroom:",
+    "categ": "symbols",
+    "rank": 67
+  },
+  {
+    "name": "mens",
+    "alt": "toilet, restroom, wc, blue-square, gender, male",
+    "code": ":mens:",
+    "categ": "symbols",
+    "rank": 68
+  },
+  {
+    "name": "womens",
+    "alt": "purple-square, woman, female, toilet, loo, restroom, gender",
+    "code": ":womens:",
+    "categ": "symbols",
+    "rank": 69
+  },
+  {
+    "name": "baby_symbol",
+    "alt": "orange-square, child",
+    "code": ":baby_symbol:",
+    "categ": "symbols",
+    "rank": 70
+  },
+  {
+    "name": "no_smoking",
+    "alt": "cigarette, blue-square, smell, smoke",
+    "code": ":no_smoking:",
+    "categ": "symbols",
+    "rank": 71
+  },
+  {
+    "name": "parking",
+    "alt": "cars, blue-square, alphabet, letter",
+    "code": ":parking:",
+    "categ": "symbols",
+    "rank": 72
+  },
+  {
+    "name": "wheelchair",
+    "alt": "blue-square, disabled, a11y, accessibility",
+    "code": ":wheelchair:",
+    "categ": "symbols",
+    "rank": 73
+  },
+  {
+    "name": "metro",
+    "alt": "transportation, blue-square, mrt, underground, tube",
+    "code": ":metro:",
+    "categ": "symbols",
+    "rank": 74
+  },
+  {
+    "name": "baggage_claim",
+    "alt": "blue-square, airport, transport",
+    "code": ":baggage_claim:",
+    "categ": "symbols",
+    "rank": 75
+  },
+  {
+    "name": "accept",
+    "alt": "ok, good, chinese, kanji, agree, yes, orange-circle",
+    "code": ":accept:",
+    "categ": "symbols",
+    "rank": 76
+  },
+  {
+    "name": "wc",
+    "alt": "toilet, restroom, blue-square",
+    "code": ":wc:",
+    "categ": "symbols",
+    "rank": 77
+  },
+  {
+    "name": "potable_water",
+    "alt": "blue-square, liquid, restroom, cleaning, faucet",
+    "code": ":potable_water:",
+    "categ": "symbols",
+    "rank": 78
+  },
+  {
+    "name": "put_litter_in_its_place",
+    "alt": "blue-square, sign, human, info",
+    "code": ":put_litter_in_its_place:",
+    "categ": "symbols",
+    "rank": 79
+  },
+  {
+    "name": "secret",
+    "alt": "privacy, chinese, sshh, kanji, red-circle",
+    "code": ":secret:",
+    "categ": "symbols",
+    "rank": 80
+  },
+  {
+    "name": "congratulations",
+    "alt": "chinese, kanji, japanese, red-circle",
+    "code": ":congratulations:",
+    "categ": "symbols",
+    "rank": 81
+  },
+  {
+    "name": "m",
+    "alt": "alphabet, blue-circle, letter",
+    "code": ":m:",
+    "categ": "symbols",
+    "rank": 82
+  },
+  {
+    "name": "passport_control",
+    "alt": "custom, blue-square",
+    "code": ":passport_control:",
+    "categ": "symbols",
+    "rank": 83
+  },
+  {
+    "name": "left_luggage",
+    "alt": "blue-square, travel",
+    "code": ":left_luggage:",
+    "categ": "symbols",
+    "rank": 84
+  },
+  {
+    "name": "customs",
+    "alt": "passport, border, blue-square",
+    "code": ":customs:",
+    "categ": "symbols",
+    "rank": 85
+  },
+  {
+    "name": "ideograph_advantage",
+    "alt": "chinese, kanji, obtain, get, circle",
+    "code": ":ideograph_advantage:",
+    "categ": "symbols",
+    "rank": 86
+  },
+  {
+    "name": "cl",
+    "alt": "alphabet, words, red-square",
+    "code": ":cl:",
+    "categ": "symbols",
+    "rank": 87
+  },
+  {
+    "name": "sos",
+    "alt": "help, red-square, words, emergency, 911",
+    "code": ":sos:",
+    "categ": "symbols",
+    "rank": 88
+  },
+  {
+    "name": "id",
+    "alt": "purple-square, words",
+    "code": ":id:",
+    "categ": "symbols",
+    "rank": 89
+  },
+  {
+    "name": "no_entry_sign",
+    "alt": "forbid, stop, limit, denied, disallow, circle",
+    "code": ":no_entry_sign:",
+    "categ": "symbols",
+    "rank": 90
+  },
+  {
+    "name": "underage",
+    "alt": "18, drink, pub, night, minor, circle",
+    "code": ":underage:",
+    "categ": "symbols",
+    "rank": 91
+  },
+  {
+    "name": "no_mobile_phones",
+    "alt": "iphone, mute, circle",
+    "code": ":no_mobile_phones:",
+    "categ": "symbols",
+    "rank": 92
+  },
+  {
+    "name": "do_not_litter",
+    "alt": "trash, bin, garbage, circle",
+    "code": ":do_not_litter:",
+    "categ": "symbols",
+    "rank": 93
+  },
+  {
+    "name": "non-potable_water",
+    "alt": "drink, faucet, tap, circle",
+    "code": ":non-potable_water:",
+    "categ": "symbols",
+    "rank": 94
+  },
+  {
+    "name": "no_bicycles",
+    "alt": "cyclist, prohibited, circle",
+    "code": ":no_bicycles:",
+    "categ": "symbols",
+    "rank": 95
+  },
+  {
+    "name": "no_pedestrians",
+    "alt": "rules, crossing, walking, circle",
+    "code": ":no_pedestrians:",
+    "categ": "symbols",
+    "rank": 96
+  },
+  {
+    "name": "children_crossing",
+    "alt": "school, warning, danger, sign, driving, yellow-diamond",
+    "code": ":children_crossing:",
+    "categ": "symbols",
+    "rank": 97
+  },
+  {
+    "name": "no_entry",
+    "alt": "limit, security, privacy, bad, denied, stop, circle",
+    "code": ":no_entry:",
+    "categ": "symbols",
+    "rank": 98
+  },
+  {
+    "name": "eight_spoked_asterisk",
+    "alt": "star, sparkle, green-square",
+    "code": ":eight_spoked_asterisk:",
+    "categ": "symbols",
+    "rank": 99
+  },
+  {
+    "name": "sparkle",
+    "alt": "stars, green-square, awesome, good, fireworks",
+    "code": ":sparkle:",
+    "categ": "symbols",
+    "rank": 100
+  },
+  {
+    "name": "eight_pointed_black_star",
+    "alt": "orange-square, shape, polygon",
+    "code": ":eight_pointed_black_star:",
+    "categ": "symbols",
+    "rank": 101
+  },
+  {
+    "name": "heart_decoration",
+    "alt": "heart, purple-square, love, like",
+    "code": ":heart_decoration:",
+    "categ": "symbols",
+    "rank": 102
+  },
+  {
+    "name": "vs",
+    "alt": "words, orange-square",
+    "code": ":vs:",
+    "categ": "symbols",
+    "rank": 103
+  },
+  {
+    "name": "vibration_mode",
+    "alt": "orange-square, phone",
+    "code": ":vibration_mode:",
+    "categ": "symbols",
+    "rank": 104
+  },
+  {
+    "name": "mobile_phone_off",
+    "alt": "mute, orange-square, silence, quiet",
+    "code": ":mobile_phone_off:",
+    "categ": "symbols",
+    "rank": 105
+  },
+  {
+    "name": "chart",
+    "alt": "yen, green-square, graph, presentation, stats",
+    "code": ":chart:",
+    "categ": "symbols",
+    "rank": 106
+  },
+  {
+    "name": "currency_exchange",
+    "alt": "money, sales, dollar, travel",
+    "code": ":currency_exchange:",
+    "categ": "symbols",
+    "rank": 107
+  },
+  {
+    "name": "aries",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":aries:",
+    "categ": "symbols",
+    "rank": 108
+  },
+  {
+    "name": "taurus",
+    "alt": "zodiac, purple-square, sign, astrology",
+    "code": ":taurus:",
+    "categ": "symbols",
+    "rank": 109
+  },
+  {
+    "name": "gemini",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":gemini:",
+    "categ": "symbols",
+    "rank": 110
+  },
+  {
+    "name": "cancer",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":cancer:",
+    "categ": "symbols",
+    "rank": 111
+  },
+  {
+    "name": "leo",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":leo:",
+    "categ": "symbols",
+    "rank": 112
+  },
+  {
+    "name": "virgo",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":virgo:",
+    "categ": "symbols",
+    "rank": 113
+  },
+  {
+    "name": "libra",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":libra:",
+    "categ": "symbols",
+    "rank": 114
+  },
+  {
+    "name": "scorpius",
+    "alt": "zodiac, sign, purple-square, astrology, scorpio",
+    "code": ":scorpius:",
+    "categ": "symbols",
+    "rank": 115
+  },
+  {
+    "name": "sagittarius",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":sagittarius:",
+    "categ": "symbols",
+    "rank": 116
+  },
+  {
+    "name": "capricorn",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":capricorn:",
+    "categ": "symbols",
+    "rank": 117
+  },
+  {
+    "name": "aquarius",
+    "alt": "zodiac, sign, purple-square, astrology",
+    "code": ":aquarius:",
+    "categ": "symbols",
+    "rank": 118
+  },
+  {
+    "name": "pisces",
+    "alt": "zodiac, purple-square, sign, astrology",
+    "code": ":pisces:",
+    "categ": "symbols",
+    "rank": 119
+  },
+  {
+    "name": "ophiuchus",
+    "alt": "zodiac, sign, purple-square, constellation, astrology",
+    "code": ":ophiuchus:",
+    "categ": "symbols",
+    "rank": 120
+  },
+  {
+    "name": "six_pointed_star",
+    "alt": "purple-square, religion, jewish, hexagram",
+    "code": ":six_pointed_star:",
+    "categ": "symbols",
+    "rank": 121
+  },
+  {
+    "name": "negative_squared_cross_mark",
+    "alt": "x, green-square, no, deny",
+    "code": ":negative_squared_cross_mark:",
+    "categ": "symbols",
+    "rank": 122
+  },
+  {
+    "name": "a",
+    "alt": "red-square, alphabet, letter",
+    "code": ":a:",
+    "categ": "symbols",
+    "rank": 123
+  },
+  {
+    "name": "b",
+    "alt": "red-square, alphabet, letter",
+    "code": ":b:",
+    "categ": "symbols",
+    "rank": 124
+  },
+  {
+    "name": "ab",
+    "alt": "red-square, alphabet",
+    "code": ":ab:",
+    "categ": "symbols",
+    "rank": 125
+  },
+  {
+    "name": "o2",
+    "alt": "alphabet, red-square, letter",
+    "code": ":o2:",
+    "categ": "symbols",
+    "rank": 126
+  },
+  {
+    "name": "diamond_shape_with_a_dot_inside",
+    "alt": "jewel, blue, gem, crystal, fancy",
+    "code": ":diamond_shape_with_a_dot_inside:",
+    "categ": "symbols",
+    "rank": 127
+  },
+  {
+    "name": "recycle",
+    "alt": "arrow, environment, garbage, trash",
+    "code": ":recycle:",
+    "categ": "symbols",
+    "rank": 128
+  },
+  {
+    "name": "end",
+    "alt": "words, arrow",
+    "code": ":end:",
+    "categ": "symbols",
+    "rank": 129
+  },
+  {
+    "name": "back",
+    "alt": "arrow, words, return",
+    "code": ":back:",
+    "categ": "symbols",
+    "rank": 130
+  },
+  {
+    "name": "on",
+    "alt": "arrow, words",
+    "code": ":on:",
+    "categ": "symbols",
+    "rank": 131
+  },
+  {
+    "name": "soon",
+    "alt": "arrow, words",
+    "code": ":soon:",
+    "categ": "symbols",
+    "rank": 132
+  },
+  {
+    "name": "clock1",
+    "alt": "time, late, early, schedule",
+    "code": ":clock1:",
+    "categ": "symbols",
+    "rank": 133
+  },
+  {
+    "name": "clock130",
+    "alt": "time, late, early, schedule",
+    "code": ":clock130:",
+    "categ": "symbols",
+    "rank": 134
+  },
+  {
+    "name": "clock10",
+    "alt": "time, late, early, schedule",
+    "code": ":clock10:",
+    "categ": "symbols",
+    "rank": 135
+  },
+  {
+    "name": "clock1030",
+    "alt": "time, late, early, schedule",
+    "code": ":clock1030:",
+    "categ": "symbols",
+    "rank": 136
+  },
+  {
+    "name": "clock11",
+    "alt": "time, late, early, schedule",
+    "code": ":clock11:",
+    "categ": "symbols",
+    "rank": 137
+  },
+  {
+    "name": "clock1130",
+    "alt": "time, late, early, schedule",
+    "code": ":clock1130:",
+    "categ": "symbols",
+    "rank": 138
+  },
+  {
+    "name": "clock12",
+    "alt": "midnight, noon, time, late, early, schedule",
+    "code": ":clock12:",
+    "categ": "symbols",
+    "rank": 139
+  },
+  {
+    "name": "clock1230",
+    "alt": "time, late, early, schedule",
+    "code": ":clock1230:",
+    "categ": "symbols",
+    "rank": 140
+  },
+  {
+    "name": "clock2",
+    "alt": "time, late, early, schedule",
+    "code": ":clock2:",
+    "categ": "symbols",
+    "rank": 141
+  },
+  {
+    "name": "clock230",
+    "alt": "time, late, early, schedule",
+    "code": ":clock230:",
+    "categ": "symbols",
+    "rank": 142
+  },
+  {
+    "name": "clock3",
+    "alt": "time, late, early, schedule",
+    "code": ":clock3:",
+    "categ": "symbols",
+    "rank": 143
+  },
+  {
+    "name": "clock330",
+    "alt": "time, late, early, schedule",
+    "code": ":clock330:",
+    "categ": "symbols",
+    "rank": 144
+  },
+  {
+    "name": "clock4",
+    "alt": "time, late, early, schedule",
+    "code": ":clock4:",
+    "categ": "symbols",
+    "rank": 145
+  },
+  {
+    "name": "clock430",
+    "alt": "time, late, early, schedule",
+    "code": ":clock430:",
+    "categ": "symbols",
+    "rank": 146
+  },
+  {
+    "name": "clock5",
+    "alt": "time, late, early, schedule",
+    "code": ":clock5:",
+    "categ": "symbols",
+    "rank": 147
+  },
+  {
+    "name": "clock530",
+    "alt": "time, late, early, schedule",
+    "code": ":clock530:",
+    "categ": "symbols",
+    "rank": 148
+  },
+  {
+    "name": "clock6",
+    "alt": "time, late, early, schedule, dawn, dusk",
+    "code": ":clock6:",
+    "categ": "symbols",
+    "rank": 149
+  },
+  {
+    "name": "clock630",
+    "alt": "time, late, early, schedule",
+    "code": ":clock630:",
+    "categ": "symbols",
+    "rank": 150
+  },
+  {
+    "name": "clock7",
+    "alt": "time, late, early, schedule",
+    "code": ":clock7:",
+    "categ": "symbols",
+    "rank": 151
+  },
+  {
+    "name": "clock730",
+    "alt": "time, late, early, schedule",
+    "code": ":clock730:",
+    "categ": "symbols",
+    "rank": 152
+  },
+  {
+    "name": "clock8",
+    "alt": "time, late, early, schedule",
+    "code": ":clock8:",
+    "categ": "symbols",
+    "rank": 153
+  },
+  {
+    "name": "clock830",
+    "alt": "time, late, early, schedule",
+    "code": ":clock830:",
+    "categ": "symbols",
+    "rank": 154
+  },
+  {
+    "name": "clock9",
+    "alt": "time, late, early, schedule",
+    "code": ":clock9:",
+    "categ": "symbols",
+    "rank": 155
+  },
+  {
+    "name": "clock930",
+    "alt": "time, late, early, schedule",
+    "code": ":clock930:",
+    "categ": "symbols",
+    "rank": 156
+  },
+  {
+    "name": "heavy_dollar_sign",
+    "alt": "money, sales, payment, currency",
+    "code": ":heavy_dollar_sign:",
+    "categ": "symbols",
+    "rank": 157
+  },
+  {
+    "name": "copyright",
+    "alt": "ip, license, circle, law, legal",
+    "code": ":copyright:",
+    "categ": "symbols",
+    "rank": 158
+  },
+  {
+    "name": "registered",
+    "alt": "alphabet, circle",
+    "code": ":registered:",
+    "categ": "symbols",
+    "rank": 159
+  },
+  {
+    "name": "tm",
+    "alt": "trademark, brand, law, legal",
+    "code": ":tm:",
+    "categ": "symbols",
+    "rank": 160
+  },
+  {
+    "name": "x",
+    "alt": "no, delete, remove",
+    "code": ":x:",
+    "categ": "symbols",
+    "rank": 161
+  },
+  {
+    "name": "heavy_exclamation_mark",
+    "alt": "shocked, surprised",
+    "code": ":heavy_exclamation_mark:",
+    "categ": "symbols",
+    "rank": 162
+  },
+  {
+    "name": "bangbang",
+    "alt": "exclamation, surprise",
+    "code": ":bangbang:",
+    "categ": "symbols",
+    "rank": 163
+  },
+  {
+    "name": "interrobang",
+    "alt": "wat, punctuation, surprise",
+    "code": ":interrobang:",
+    "categ": "symbols",
+    "rank": 164
+  },
+  {
+    "name": "o",
+    "alt": "circle, round",
+    "code": ":o:",
+    "categ": "symbols",
+    "rank": 165
+  },
+  {
+    "name": "heavy_multiplication_x",
+    "alt": "math, calculation",
+    "code": ":heavy_multiplication_x:",
+    "categ": "symbols",
+    "rank": 166
+  },
+  {
+    "name": "heavy_plus_sign",
+    "alt": "math, calculation, addition, more, increase",
+    "code": ":heavy_plus_sign:",
+    "categ": "symbols",
+    "rank": 167
+  },
+  {
+    "name": "heavy_minus_sign",
+    "alt": "math, calculation, subtract, less",
+    "code": ":heavy_minus_sign:",
+    "categ": "symbols",
+    "rank": 168
+  },
+  {
+    "name": "heavy_division_sign",
+    "alt": "divide, math, calculation",
+    "code": ":heavy_division_sign:",
+    "categ": "symbols",
+    "rank": 169
+  },
+  {
+    "name": "white_flower",
+    "alt": "floral, japanese, spring",
+    "code": ":white_flower:",
+    "categ": "symbols",
+    "rank": 170
+  },
+  {
+    "name": "100",
+    "alt": "score, perfect, numbers, century, exam, quiz, test, pass, hundred",
+    "code": ":100:",
+    "categ": "symbols",
+    "rank": 171
+  },
+  {
+    "name": "heavy_check_mark",
+    "alt": "ok, nike",
+    "code": ":heavy_check_mark:",
+    "categ": "symbols",
+    "rank": 172
+  },
+  {
+    "name": "ballot_box_with_check",
+    "alt": "ok, agree, confirm, black-square, vote, election",
+    "code": ":ballot_box_with_check:",
+    "categ": "symbols",
+    "rank": 173
+  },
+  {
+    "name": "radio_button",
+    "alt": "input, old, music, circle",
+    "code": ":radio_button:",
+    "categ": "symbols",
+    "rank": 174
+  },
+  {
+    "name": "link",
+    "alt": "rings, url",
+    "code": ":link:",
+    "categ": "symbols",
+    "rank": 175
+  },
+  {
+    "name": "curly_loop",
+    "alt": "scribble, draw, shape, squiggle",
+    "code": ":curly_loop:",
+    "categ": "symbols",
+    "rank": 176
+  },
+  {
+    "name": "wavy_dash",
+    "alt": "draw, line, moustache, mustache, squiggle, scribble",
+    "code": ":wavy_dash:",
+    "categ": "symbols",
+    "rank": 177
+  },
+  {
+    "name": "part_alternation_mark",
+    "alt": "graph, presentation, stats, business, economics, bad",
+    "code": ":part_alternation_mark:",
+    "categ": "symbols",
+    "rank": 178
+  },
+  {
+    "name": "trident",
+    "alt": "weapon, spear",
+    "code": ":trident:",
+    "categ": "symbols",
+    "rank": 179
+  },
+  {
+    "name": "black_small_square",
+    "alt": "shape, icon",
+    "code": ":black_small_square:",
+    "categ": "symbols",
+    "rank": 180
+  },
+  {
+    "name": "white_small_square",
+    "alt": "shape, icon",
+    "code": ":white_small_square:",
+    "categ": "symbols",
+    "rank": 181
+  },
+  {
+    "name": "black_medium_small_square",
+    "alt": "icon, shape, button",
+    "code": ":black_medium_small_square:",
+    "categ": "symbols",
+    "rank": 182
+  },
+  {
+    "name": "white_medium_small_square",
+    "alt": "shape, stone, icon, button",
+    "code": ":white_medium_small_square:",
+    "categ": "symbols",
+    "rank": 183
+  },
+  {
+    "name": "black_medium_square",
+    "alt": "shape, button, icon",
+    "code": ":black_medium_square:",
+    "categ": "symbols",
+    "rank": 184
+  },
+  {
+    "name": "white_medium_square",
+    "alt": "shape, stone, icon",
+    "code": ":white_medium_square:",
+    "categ": "symbols",
+    "rank": 185
+  },
+  {
+    "name": "black_large_square",
+    "alt": "shape, icon, button",
+    "code": ":black_large_square:",
+    "categ": "symbols",
+    "rank": 186
+  },
+  {
+    "name": "white_large_square",
+    "alt": "shape, icon, stone, button",
+    "code": ":white_large_square:",
+    "categ": "symbols",
+    "rank": 187
+  },
+  {
+    "name": "white_check_mark",
+    "alt": "green-square, ok, agree, vote, election",
+    "code": ":white_check_mark:",
+    "categ": "symbols",
+    "rank": 188
+  },
+  {
+    "name": "black_square_button",
+    "alt": "shape, input, frame",
+    "code": ":black_square_button:",
+    "categ": "symbols",
+    "rank": 189
+  },
+  {
+    "name": "white_square_button",
+    "alt": "shape, input",
+    "code": ":white_square_button:",
+    "categ": "symbols",
+    "rank": 190
+  },
+  {
+    "name": "black_circle",
+    "alt": "shape, button, round",
+    "code": ":black_circle:",
+    "categ": "symbols",
+    "rank": 191
+  },
+  {
+    "name": "white_circle",
+    "alt": "shape, round",
+    "code": ":white_circle:",
+    "categ": "symbols",
+    "rank": 192
+  },
+  {
+    "name": "red_circle",
+    "alt": "shape, error, danger",
+    "code": ":red_circle:",
+    "categ": "symbols",
+    "rank": 193
+  },
+  {
+    "name": "large_blue_circle",
+    "alt": "shape, icon, button",
+    "code": ":large_blue_circle:",
+    "categ": "symbols",
+    "rank": 194
+  },
+  {
+    "name": "large_blue_diamond",
+    "alt": "shape, jewel, gem",
+    "code": ":large_blue_diamond:",
+    "categ": "symbols",
+    "rank": 195
+  },
+  {
+    "name": "large_orange_diamond",
+    "alt": "shape, jewel, gem",
+    "code": ":large_orange_diamond:",
+    "categ": "symbols",
+    "rank": 196
+  },
+  {
+    "name": "small_blue_diamond",
+    "alt": "shape, jewel, gem",
+    "code": ":small_blue_diamond:",
+    "categ": "symbols",
+    "rank": 197
+  },
+  {
+    "name": "small_orange_diamond",
+    "alt": "shape, jewel, gem",
+    "code": ":small_orange_diamond:",
+    "categ": "symbols",
+    "rank": 198
+  },
+  {
+    "name": "small_red_triangle",
+    "alt": "shape, direction, up, top",
+    "code": ":small_red_triangle:",
+    "categ": "symbols",
+    "rank": 199
+  },
+  {
+    "name": "small_red_triangle_down",
+    "alt": "shape, direction, bottom",
+    "code": ":small_red_triangle_down:",
+    "categ": "symbols",
+    "rank": 200
+  },
+  {
+    "name": "shipit",
+    "alt": "squirrel, detective, animal, sherlock, inspector, custom_",
+    "code": ":shipit:",
+    "categ": "symbols",
+    "rank": 201,
+    "ios": false
+  }
+]
