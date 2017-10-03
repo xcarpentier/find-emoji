@@ -3,6 +3,10 @@ A simple mobile app to find the appropriate emoji!
 
 https://exp.host/@xcarpentier/find-emoji
 
+## Gif demo
+
+![](https://media.giphy.com/media/3ov9jFQQ09Tq0iuqL6/giphy.gif)
+
 ## Data
 ```
 [

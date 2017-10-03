@@ -26,11 +26,11 @@ class Emoji extends React.PureComponent {
           <Text style={styles.font}>
             {emoji}
           </Text>
-          {!copied && __DEV__ &&
+          {/* {!copied && __DEV__ &&
             <Text style={styles.copied}>
               {name}
             </Text>
-          }
+          } */}
           {copied &&
             <Text style={styles.copied}>
               {"copied"}
