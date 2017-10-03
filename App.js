@@ -31,10 +31,10 @@ export default class App extends React.Component {
     minMatchCharLength: 1,
     keys: [{
       name: 'name',
-      weight: 0.7
+      weight: 0.9
     }, {
       name: 'alt',
-      weight: 0.3
+      weight: 0.1
     }]
   })
 
@@ -78,6 +78,8 @@ export default class App extends React.Component {
           extraData={this.state}
           renderItem={this.renderItem}
           numColumns={4}
+          keyboardShouldPersistTaps="never"
+          keyboardDismissMode="on-drag"
         />
         <TextInput
           style={styles.filter}
@@ -87,6 +89,7 @@ export default class App extends React.Component {
           placeholder="filter..."
           autoCorrect={false}
           clearTextOnFocus
+          keyboardAppearance="light"
         />
       </KeyboardAvoidingView>
     )
