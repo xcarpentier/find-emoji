@@ -10,7 +10,7 @@
     "fuse.js": "^3.1.0",
     "node-emoji": "^1.8.1",
     "prop-types": "^15.6.0",
-    "react": "16.0.0-alpha.12",
+    "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz"
   }
 }
