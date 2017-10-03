@@ -2,7 +2,7 @@
 A simple mobile app to find the appropriate emoji!
 
 ## Data
-```json
+```
 [
   {
     "name": "smile",

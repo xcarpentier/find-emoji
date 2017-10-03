@@ -16,5 +16,12 @@ export default StyleSheet.create({
     textAlign: 'center',
     alignItems: 'center' ,
     justifyContent: 'center',
+  },
+  copied: {
+    position: 'absolute',
+    bottom: 0,
+    textAlign: 'center',
+    color: 'black',
+    opacity: 0.8,
   }
 })

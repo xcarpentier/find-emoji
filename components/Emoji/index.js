@@ -12,18 +12,25 @@ class Emoji extends React.PureComponent {
 
   static propTypes = {
     code: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired,
+    copied: PropTypes.bool,
     onPress: PropTypes.func.isRequired,
   }
 
   render() {
-    const { onPress, code } = this.props
+    const { onPress, code, copied, name } = this.props
     const emoji = NodeEmoji.get(code)
     return (
-      <TouchableOpacity onPress={() => onPress(emoji)}>
+      <TouchableOpacity onPress={() => onPress({code: emoji, name })}>
         <View style={styles.container}>
           <Text style={styles.font}>
             {emoji}
           </Text>
+          {copied &&
+            <Text style={styles.copied}>
+              {"copied"}
+            </Text>
+          }
         </View>
       </TouchableOpacity>
     )

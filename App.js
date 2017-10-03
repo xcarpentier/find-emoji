@@ -19,23 +19,22 @@ const data = emoji_data.filter(item => item[Platform.OS] !== false)
 export default class App extends React.Component {
   state = {
     data,
-    text: ''
+    text: '',
+    name: undefined,
   }
 
   fuse = new Fuse(data, {
-    shouldSort: true,
     threshold: 0.1,
+    shouldSort: true,
     location: 0,
-    distance: 80,
-    findAllMatches: false,
-    maxPatternLength: 3,
+    distance: 100,
     minMatchCharLength: 1,
     keys: [{
       name: 'name',
-      weight: 0.9
+      weight: 0.7
     }, {
       name: 'alt',
-      weight: 0.1
+      weight: 0.3
     }]
   })
 
@@ -52,9 +51,19 @@ export default class App extends React.Component {
     StatusBar.setHidden(true)
   }
 
-  onPress = Clipboard.setString
+  onPress = ({ code, name }) => {
+    Clipboard.setString(code)
+    this.setState({ name })
+    setTimeout(() => this.setState({ name: undefined }), 2000)
+  }
 
-  renderItem = ({ item }) => <Emoji code={item.code} onPress={this.onPress}/>
+  renderItem = ({ item }) =>
+    <Emoji
+      code={item.code}
+      name={item.name}
+      onPress={this.onPress}
+      copied={item.name === this.state.name}
+    />
 
   render() {
     return (
@@ -64,8 +73,9 @@ export default class App extends React.Component {
       >
         <FlatList
           ref={list => this.list = list}
-          keyExtractor={item=> item.code}
+          keyExtractor={item=> item.name}
           data={this.state.data}
+          extraData={this.state}
           renderItem={this.renderItem}
           numColumns={4}
         />
@@ -74,6 +84,7 @@ export default class App extends React.Component {
           onChangeText={this.handleFilterChange}
           value={this.state.text}
           autoCapitalize="none"
+          placeholder="filter..."
         />
       </KeyboardAvoidingView>
     )
@@ -89,5 +100,7 @@ const styles = StyleSheet.create({
     height: 40,
     borderColor: '#CED0CE',
     borderWidth: 1,
+    paddingHorizontal: 15,
+    textAlign: 'center'
   }
 })
