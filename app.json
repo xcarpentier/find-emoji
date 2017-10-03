@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "find-emoji",
-    "description": "A simple mobile app to find the appropriate emoji",
+    "description": "A simple mobile app to find the appropriate emoji, find source here: https://github.com/xcarpentier/find-emoji",
     "slug": "find-emoji",
     "privacy": "public",
     "sdkVersion": "21.0.0",
