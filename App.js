@@ -54,7 +54,7 @@ export default class App extends React.Component {
   onPress = ({ code, name }) => {
     Clipboard.setString(code)
     this.setState({ name })
-    setTimeout(() => this.setState({ name: undefined }), 2000)
+    setTimeout(() => this.setState({ name: undefined }), 3000)
   }
 
   renderItem = ({ item }) =>
@@ -85,6 +85,8 @@ export default class App extends React.Component {
           value={this.state.text}
           autoCapitalize="none"
           placeholder="filter..."
+          autoCorrect={false}
+          clearTextOnFocus
         />
       </KeyboardAvoidingView>
     )

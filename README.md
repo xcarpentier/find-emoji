@@ -72,3 +72,4 @@ JSON.stringify([...people, ...nature, ...objects, ...places, ...symbols], null, 
 * [ ] Add filter on category
 * [ ] Add number of results
 * [ ] Merge emoji with https://github.com/iamcal/emoji-data
+* [ ] keep a sublist with emoji habitually used by the user
