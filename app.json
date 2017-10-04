@@ -6,6 +6,17 @@
     "privacy": "public",
     "sdkVersion": "21.0.0",
     "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.xavier.carpentier.findemoji",
+      "supportsTablet": true,
+      "buildNumber": "1",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.applications.developer.findemoji"
+    },
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "icon": "./assets/icons/app-icon.png",
