@@ -7,7 +7,7 @@
     "sdkVersion": "21.0.0",
     "version": "1.0.0",
     "ios": {
-      "bundleIdentifier": "com.xavier.carpentier.findemoji",
+      "bundleIdentifier": "com.applications.developer.findemoji",
       "supportsTablet": true,
       "buildNumber": "1",
       "config": {
@@ -26,8 +26,5 @@
     "packagerOpts": {
       "assetExts": ["ttf", "mp4"]
     },
-    "ios": {
-      "supportsTablet": true
-    }
   }
 }
