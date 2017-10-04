@@ -11,9 +11,7 @@ https://exp.host/@xcarpentier/find-emoji
 ASAP
 
 ## Google Play Store app link
-<a href='https://play.google.com/store/apps/details?id=com.applications.developer.findemoji&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-
-
+<a href='https://play.google.com/store/apps/details?id=com.applications.developer.findemoji&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='150'/></a>
 
 
 ## Data
