@@ -5,7 +5,8 @@
     "code": ":bowtie:",
     "categ": "people",
     "rank": 0,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "smile",
@@ -20,7 +21,8 @@
     "code": ":simple_smile:",
     "categ": "people",
     "rank": 2,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "laughing",
@@ -336,7 +338,8 @@
     "code": ":neckbeard:",
     "categ": "people",
     "rank": 47,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "tired_face",
@@ -827,7 +830,8 @@
     "code": ":metal:",
     "categ": "people",
     "rank": 117,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "fu",
@@ -835,7 +839,8 @@
     "code": ":fu:",
     "categ": "people",
     "rank": 118,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "runner",
@@ -1291,7 +1296,8 @@
     "code": ":feelsgood:",
     "categ": "people",
     "rank": 183,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "finnadie",
@@ -1299,7 +1305,8 @@
     "code": ":finnadie:",
     "categ": "people",
     "rank": 184,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "goberserk",
@@ -1307,7 +1314,8 @@
     "code": ":goberserk:",
     "categ": "people",
     "rank": 185,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "godmode",
@@ -1315,7 +1323,8 @@
     "code": ":godmode:",
     "categ": "people",
     "rank": 186,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "hurtrealbad",
@@ -1323,7 +1332,8 @@
     "code": ":hurtrealbad:",
     "categ": "people",
     "rank": 187,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "rage1",
@@ -1331,7 +1341,8 @@
     "code": ":rage1:",
     "categ": "people",
     "rank": 188,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "rage2",
@@ -1339,7 +1350,8 @@
     "code": ":rage2:",
     "categ": "people",
     "rank": 189,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "rage3",
@@ -1347,7 +1359,8 @@
     "code": ":rage3:",
     "categ": "people",
     "rank": 190,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "rage4",
@@ -1355,7 +1368,8 @@
     "code": ":rage4:",
     "categ": "people",
     "rank": 191,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "suspect",
@@ -1363,7 +1377,8 @@
     "code": ":suspect:",
     "categ": "people",
     "rank": 192,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "trollface",
@@ -1371,7 +1386,8 @@
     "code": ":trollface:",
     "categ": "people",
     "rank": 193,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "sunny",
@@ -2169,7 +2185,8 @@
     "code": ":octocat:",
     "categ": "nature",
     "rank": 113,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "squirrel",
@@ -2177,7 +2194,8 @@
     "code": ":squirrel:",
     "categ": "nature",
     "rank": 114,
-    "ios": false
+    "ios": false,
+    "android": false
   },
   {
     "name": "bamboo",
@@ -6153,6 +6171,7 @@
     "code": ":shipit:",
     "categ": "symbols",
     "rank": 201,
-    "ios": false
+    "ios": false,
+    "android": false
   }
 ]

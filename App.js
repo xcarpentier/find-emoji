@@ -1,6 +1,7 @@
 import React from 'react'
 import Fuse from 'fuse.js'
-import { StyleSheet,
+import {
+  StyleSheet,
   Text,
   View,
   FlatList,
@@ -8,7 +9,8 @@ import { StyleSheet,
   Platform,
   StatusBar,
   TextInput,
-  KeyboardAvoidingView
+  KeyboardAvoidingView,
+  Dimensions
 } from 'react-native'
 
 import Emoji from 'Emoji'
@@ -90,22 +92,25 @@ export default class App extends React.Component {
           autoCorrect={false}
           clearTextOnFocus
           keyboardAppearance="light"
+          underlineColorAndroid={'transparent'}
         />
       </KeyboardAvoidingView>
     )
   }
 }
-
+const window = Dimensions.get('window')
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'whitesmoke',
+    alignItems: 'center' ,
+    justifyContent: 'space-around',
   },
   filter: {
     height: 40,
     borderColor: '#CED0CE',
     borderWidth: 1,
-    paddingHorizontal: 15,
-    textAlign: 'center'
+    textAlign: 'center',
+    width: window.width,
   }
 })

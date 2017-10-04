@@ -1,11 +1,20 @@
 # Find emoji mobile app
 A simple mobile app to find the appropriate emoji!
 
+## Gif demo
+![](https://media.giphy.com/media/3ov9jFQQ09Tq0iuqL6/giphy.gif)
+
+## Expo app link
 https://exp.host/@xcarpentier/find-emoji
 
-## Gif demo
+## Apple Store app link
+ASAP
 
-![](https://media.giphy.com/media/3ov9jFQQ09Tq0iuqL6/giphy.gif)
+## Google Play Store app link
+<a href='https://play.google.com/store/apps/details?id=com.applications.developer.findemoji&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+
+
 
 ## Data
 ```
@@ -75,5 +84,6 @@ JSON.stringify([...people, ...nature, ...objects, ...places, ...symbols], null, 
 ## Roadmap
 * [ ] Add filter on category
 * [ ] Add number of results
+* [ ] Add a fade and position animation on copied
 * [ ] Merge emoji with https://github.com/iamcal/emoji-data
 * [ ] keep a sublist with emoji habitually used by the user
