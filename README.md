@@ -85,3 +85,5 @@ JSON.stringify([...people, ...nature, ...objects, ...places, ...symbols], null, 
 * [ ] Add a fade and position animation on copied
 * [ ] Merge emoji with https://github.com/iamcal/emoji-data
 * [ ] keep a sublist with emoji habitually used by the user
+* [ ] Fix android keyboard avoiding
+* [ ] Use this page https://commons.wikimedia.org/wiki/Emoji?uselang=fr
