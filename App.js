@@ -71,7 +71,8 @@ export default class App extends React.Component {
     return (
       <KeyboardAvoidingView
         style={styles.container}
-        behavior="padding"
+        behavior={(Platform.OS === 'ios' || (Platform.OS === 'android' && Platform.Version < 21))? "padding" : null}
+        keyboardVerticalOffset={(Platform.OS === 'android' && Platform.Version < 21) ? -200 : 0}
       >
         <FlatList
           ref={list => this.list = list}
