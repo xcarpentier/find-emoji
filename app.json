@@ -9,7 +9,7 @@
     "ios": {
       "bundleIdentifier": "com.applications.developer.findemoji",
       "supportsTablet": true,
-      "buildNumber": "2",
+      "buildNumber": "3",
       "config": {
         "usesNonExemptEncryption": false
       }
